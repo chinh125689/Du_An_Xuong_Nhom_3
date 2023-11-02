@@ -175,13 +175,10 @@ main{
     margin: 40px 0px;
 }
 .list_danhmuc a{
-    margin-right: 47px;
+    margin: 0% 1.4%;
     color: #334d6e;
     font-size: 18px;
     font-weight: 500;
-}
-.list_danhmuc .end{
-    margin-right: -42px;
 }
 .list_danhmuc a:hover{
     color: #62748d;
@@ -231,7 +228,7 @@ main{
     font-size: 14px;
 }
 .list_products a button{
-    margin-left: 700px;
+    margin-left: 46.8%;
     margin-top: 30px;
     border: 1px solid #ececec;
     color: #334d6e;
@@ -329,7 +326,7 @@ main{
     color: #ececec;
 }
 .lo_trinh a button{
-    margin-left: 660px;
+    margin-left: 45%;
     margin-top: 30px;
     border: 1px solid #ececec;
     color: #334d6e;
@@ -348,7 +345,7 @@ main{
     text-align: center;
 }
 .list_gv_tieubieu{
-    width: 1300px;
+    width: 87.5%;
     height: 380px;
     display: flex;
     overflow-x: auto;
@@ -371,7 +368,9 @@ main{
 }
 .gv .img_gv img{
     border-radius: 50%;
-    margin-left: 28px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .gv .name{
     color: #273167;
@@ -435,7 +434,7 @@ main{
 }
 .test{
     background-color: #f8f9fa;
-    height: 570px;
+    min-height: 570px;
     padding-top: 20px;
 }
 .test .box_right{
@@ -445,7 +444,7 @@ main{
 .test .box_right .box_right_block1{
     display: grid;
     width: 100%;
-    height: 100vh;
+    /* height: 10vh; */
     grid-template-columns: 1fr;
     grid-template-rows: 0.5fr;
     grid-template-areas: 
@@ -454,7 +453,7 @@ main{
 .test .box_right .box_right_block2{
     display: grid;
     width: 100%;
-    height: 100vh;
+    /* height: 100vh; */
     grid-template-columns: 1fr;
     grid-template-rows: 0.6fr;
     grid-template-areas: 
@@ -463,7 +462,7 @@ main{
 .test .box_right .box_right_block3{
     display: grid;
     width: 100%;
-    height: 100vh;
+    /* height: 100vh; */
     grid-template-columns: 1fr;
     grid-template-rows: 0.7fr;
     grid-template-areas: 
@@ -472,7 +471,7 @@ main{
 .test .box_right .box_right_block4{
     display: grid;
     width: 100%;
-    height: 100vh;
+    /* height: 100vh; */
     grid-template-columns: 1fr;
     grid-template-rows: 0.6fr;
     grid-template-areas: 
@@ -481,11 +480,14 @@ main{
 .test .box_right .box_right_block5{
     display: grid;
     width: 100%;
-    height: 100vh;
+    /* height: 100vh; */
     grid-template-columns: 1fr;
     grid-template-rows: 0.5fr;
     grid-template-areas: 
         "block5";
+}
+.test .box_left{
+    padding-left: 20px;
 }
 .test .box_left h2{
     color: #334d6e;
@@ -548,7 +550,7 @@ main{
     border-radius: 10px;
     transition: 0.3s ease-in-out;
     margin-top: 30px;
-    margin-left: 700px;
+    margin-left: 46.8%;
 }
 .news a button:hover{
     color: #fff;
@@ -666,4 +668,42 @@ footer{
     text-align: center;
     color: #fff;
     margin: -2px 0px;
+}
+@media (min-width: 1512px) {
+    .header{
+        grid-template-columns: repeat(5, 15% 49% 12% 2% 15%);
+        gap: 30px;
+    }
+    .list_danhmuc{
+        text-align: center;
+    }
+    .products{
+        grid: unset;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0% -1%;
+    }
+    .content{
+        grid-template-columns: repeat(2, 70% 30%);
+    }
+    .list_gv_tieubieu{
+        flex-wrap: nowrap;
+        
+    }
+    .list_gv_tieubieu div{
+        flex-basis: 23.2%;
+    }
+    .test{
+        grid-template-columns: repeat(2, 60% 40%);
+    }
+    .all_new{
+        grid-template-columns: repeat(2, 50% 50%);
+    }
+    .ft_1{
+        flex-wrap: nowrap;
+    }
+    .ft_1 div{
+        flex-basis: 23.2%;
+    }
 }
