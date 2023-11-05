@@ -1,0 +1,132 @@
+.khoahoc{
+    margin-bottom: 40px;
+}
+.khoahoc a{
+    color: #0066cc;
+    text-decoration: none;
+    padding-left: 20px;
+}
+.layout_grid{
+    padding: 0px 20px;
+    display: grid;
+    grid-template-columns: 450px 1010px;
+}
+.box_left button{
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    font-size: 15px;
+    font-weight: 600;
+    color: #1c1d1f;
+    background-color: #fff;
+}
+.sub_price{
+    color: #212529;
+}
+.sub_price h4{
+    font-size: 18px;
+    margin-bottom: -5px;
+}
+.sub_price .checkbox{
+    display: flex;
+}
+.sub_price .checkbox input[type="checkbox"]{
+    width: 20px;
+    height: 20px;
+    margin-top: 14px;
+    margin-right: 10px;
+}
+.sub_price .checkbox p{
+    font-weight: 500;
+}
+.sub_list{
+    color: #212529;
+}
+.sub_list h4{
+    font-size: 18px;
+    margin-bottom: -5px;
+}
+.sub_list .list_check{
+    display: flex;
+}
+.sub_list .list_check input[type="checkbox"]{
+    width: 20px;
+    height: 20px;
+    margin-top: 14px;
+    margin-right: 10px;
+}
+.filter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.filter .filter_left a button{
+    margin-right: 10px;
+    padding: 5px 15px;
+    border-radius: 20px;
+    border: 1px solid #e2e2e2;
+    background-color: #e2e2e2;
+}
+.filter .filter_left a button:hover{
+    background-color: #fff;
+    border: 1px solid #d91b5c;
+    color: #d91b5c;
+    transition: 0.2s ease-in-out;
+}
+.filter .filter_right p{
+    color: #212529;
+    font-weight: 600;
+}
+.sub_details{
+    display: grid;
+    grid-template-columns: 330px 330px 330px;
+    gap: 20px;
+}
+.sub_content{
+    border: 1px solid #e2e2e2;
+    padding: 0px 15px;
+    border-radius: 5px;
+}
+.sub_content .img_sub img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sub_content .content h4{
+    margin-bottom: 40px;
+    color: #334d6e;
+}
+.sub_content .content p{
+    margin-top: -6px;
+    color: #90a0b7;
+}
+.sub_content .content .rating{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sub_content .content .rating .avg_rate p{
+    color: #ff9000;
+    font-size: 16px;
+    font-weight: 600;
+}
+.sub_content .content .rating .avg_rate p b{
+    color: #90a0b7;
+    font-size: 16px;
+    font-weight: 500;
+}
+.sub_content .content .rating .user p{
+    color: #90a0b7;
+    font-size: 16px;
+}
+.sub_content .content .price p{
+    color: #d0021c;
+    font-weight: 600;
+    font-size: 20px;
+}
+.sub_content .content .price p del{
+    font-size: 16px;
+    color: #90a0b7;
+    font-weight: 500;
+}

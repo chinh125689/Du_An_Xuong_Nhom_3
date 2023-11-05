@@ -698,7 +698,7 @@ footer{
         grid-template-columns: repeat(2, 60% 40%);
     }
     .all_new{
-        grid-template-columns: repeat(2, 50% 50%);
+        grid-template-columns: 50% 50%;
     }
     .ft_1{
         flex-wrap: nowrap;
