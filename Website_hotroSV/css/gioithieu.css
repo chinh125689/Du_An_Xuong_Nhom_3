@@ -1,0 +1,122 @@
+
+body{
+    margin: 0 auto;
+    padding: 0;
+    font-family: sans-serif;
+}
+main {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+}
+.NDC1, .NDC2 {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: #333;
+}
+p {
+    font-size: 1rem;
+    color: #666;
+}
+.ND1{
+    display: grid;
+    grid-template-columns: 400px 600px;
+    gap: 30px;
+    margin-left: 18%;
+}
+.ND2{
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 850px;
+    margin-left: 23%;
+}
+.ND2 h2{
+    text-align: center;
+    margin-top: 60px;
+}
+.NDC3_1, .NDC3_2, .NDC3_3, .NDC3_4, .NDC3_5, .NDC3_6{
+    margin-bottom: 20px;
+    padding: 10px; 
+}
+.NDC3_1, .NDC3_2, .NDC3_3, .NDC3_4, .NDC3_5, .NDC3_6 h4{
+    text-align: center;
+}
+.ND3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 1000px;
+    margin-left: 18%;
+}
+.ND4{
+    display: grid;
+    grid-template-columns: 300px 200px;
+    margin-left: 31%;
+}
+.ND4 .NDC4_2 img{
+    width: 300px;
+    height: 400px;
+    margin-left: 30px;
+}
+.ND4 h4{
+    margin-bottom: 10px;
+}
+ button{
+    margin-left: 31%;
+    width: 140px;
+    height: 50px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #C91955;
+    border-color: #C91955;
+}
+.ND5 h2{
+    text-align: center;
+}
+.ND5{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    width: 1000px;
+    margin-left: 22%;
+}
+h2{
+    text-align: center;
+}
+.ND6 img{
+    width: 300px;
+    height: 200px;
+}
+.NDC6_1, .NDC6_2, .NDC6_3{
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.ND6{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 1000px;
+    margin-left: 19%;
+}
+.ND7{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 20px;
+    width: 1000px;
+    margin-left: 20%;
+}
+.ND8{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    width: 1000px;
+    margin-left: 20%;
+    gap: 20px;
+}
+.ND8 img{
+    width: 250px;
+}
