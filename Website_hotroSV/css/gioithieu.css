@@ -1,0 +1,195 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    font-family: sans-serif;
+}
+main {
+    width: 60%;
+    margin: 0 auto;
+    background-color: #fff;
+}
+.ND1{
+    display: grid;
+    grid-template-columns: 400px 491.5px;
+    gap: 20px;
+}
+.NDC1,
+.NDC2 {
+    margin-bottom: 20px;
+    padding: 0px 10px;
+    border: 1px solid #ccc;
+    color: #21364e;
+}
+.ND2{
+    margin-bottom: 90px;
+    padding: 0px 10px;
+    border: 1px solid #ccc;
+    color: #21364e;
+}
+.ND3 h2{
+    color: #21364e;
+    text-align: center;
+}
+.NDC3{
+    display: grid;
+    grid-template-columns: 304px 304px 304px;
+    text-align: center;
+    color: #21364e;
+    margin-bottom: 80px;
+}
+.NDC3_1, .NDC3_2, .NDC3_3, .NDC3_4, .NDC3_5, .NDC3_6{
+    padding: 0px 10px;
+}
+.ND4 h2{
+    color: #21364e;
+    text-align: center;
+}
+.NDC4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.NDC4_1_1, 
+.NDC4_1_2, 
+.NDC4_1_3{
+    padding-right: 120px;
+}
+.NDC4_1_1 h4, 
+.NDC4_1_2 h4, 
+.NDC4_1_3 h4{
+    color: #21364e;
+    margin-bottom: -10px;
+}
+.NDC4_1_1 p,
+.NDC4_1_2 p, 
+.NDC4_1_3 p{
+    color: #21364e;
+}
+.NDC4_2{
+    width: 500px;
+    height: 250px;
+}
+.NDC4_2 img{
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-right-radius: 140px;
+    border-top-left-radius: 250px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 300px;
+}
+.btn_1 button{
+    background-color: #d91b5c;
+    color: #fff;
+    padding: 10px 20px;
+    border: 1px solid #d91b5c;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.number_for_us h2{
+    color: #21364e;
+    text-align: center;
+    margin: 30px 0px;
+}
+.ND5{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.ND6 h2{
+    color: #21364e;
+    text-align: center;
+    margin: 30px 0px;
+}
+.NDC6{
+    display: grid;
+    grid-template-columns: 294px 294px 294px;
+    gap: 13px;
+    color: #21364e;
+}
+.NDC6_1_1{
+    width: 100%;
+    height: 50%;
+}
+.NDC6_1_1 img{
+    width: 100%;
+    height: 100%;
+}
+.NDC6_1_2{
+    width: 100%;
+}
+.btn_2 button{
+    background-color: #d91b5c;
+    color: #fff;
+    padding: 10px 20px;
+    border: 1px solid #d91b5c;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 30px;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.company h2{
+    color: #21364e;
+    text-align: center;
+    margin: 30px 0px;
+}
+.ND7{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.NDC7_1, .NDC7_2, .NDC7_3, .NDC7_4, .NDC7_5{
+    width: 156px;
+    height: 56px;
+}
+.NDC7_1 img, .NDC7_2 img, .NDC7_3 img, .NDC7_4 img, .NDC7_5 img{
+    width: 100%;
+    height: 100%;
+}
+.counterparty h2{
+    color: #21364e;
+    text-align: center;
+    margin: 30px 0px;
+}
+.ND8{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.NDC8_1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #21364e;
+}
+.NDC8_1_1{
+    width: 96px;
+    height: 96px;
+    margin-right: 20px;
+}
+.NDC8_1_1 img{
+    width: 100%;
+    height: 60%;
+}
+.NDC8_1_2 h4{
+    margin-bottom: -10px;
+}
+@media (min-width: 1512px){
+    .ND1{
+        grid-template-columns: repeat(2, 43.8% 54%);
+    }
+    .NDC3{
+        grid-template-columns: 33.3% 33.3% 33.3%;
+    }
+    .NDC6{
+        grid-template-columns: 33% 33% 33%;
+    }
+}

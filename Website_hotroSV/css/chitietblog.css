@@ -1,0 +1,74 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    font-family: sans-serif;
+}
+main {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+}
+.boxphai{
+    width: 55%;
+    padding: 20px;
+    float: left;
+}
+.boxphai .daude h3{
+    color: #AFAAA8;
+}
+.boxphai .anh1 img{
+    width: 850px;
+}
+.boxphai .anh2 img{
+    width: 850px;
+}
+.ND1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.ND1 .NDC1 img{
+    width: 400px;
+    margin-top: 20px;
+}
+.boxtrai{
+    width: 40%;
+    padding: 20px;
+    float: right;
+}
+.boxphai img, .boxtrai img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px; 
+    margin-bottom: 15px; 
+}
+main {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+
+.ND3 {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.NDC3_1 {
+    flex: 0 0 30%;
+    padding: 10px;
+}
+
+.NDC3_1 img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.NDC3_2 {
+    flex: 0 0 70%;
+    padding: 10px;
+}
