@@ -6,7 +6,7 @@
 
 .headeradmin {
     background-color: #eee;
-    border: 1px solid #ccc;
+    border: 1px solid aqua;
     color: #333;
     border-radius: 5px;
     padding: 10px 20px;
@@ -30,7 +30,7 @@
 }
 .col1 input[type="text"] {
     width: 100%;
-    border: 1px solid #ccc;
+    border: 1px solid aqua;
     padding: 5px 10px;
     border-radius: 5px;
     margin-left: 48px;
@@ -43,7 +43,7 @@
 }
 .col {
     background-color: #eee;
-    border: 1px solid #ccc;
+    border: 1px solid aqua;
     color: #333;
     border-radius: 5px;
     padding: 10px ;
@@ -52,3 +52,33 @@
 .col1 {
     padding: 20px 0px;
 }
+
+
+.danhsach input[type="text"] {
+    width: 100%;
+    border: 1px solid aqua;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+
+.danhsach {
+    padding: 20px 0px;
+}
+.danhsachkhoahoc table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.danhsachkhoahoc table th{
+    padding: 20px;
+    background-color: aqua;
+}
+
+
+.danhsachkhoahoc table td{
+    padding: 10px 20px;
+    border: 1px solid aqua;
+}
+
+
