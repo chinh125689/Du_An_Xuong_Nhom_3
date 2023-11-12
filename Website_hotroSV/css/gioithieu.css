@@ -13,7 +13,7 @@ main {
     grid-template-columns: 400px 491.5px;
     gap: 20px;
 }
-.NDC1,
+
 .NDC2 {
     margin-bottom: 20px;
     padding: 0px 10px;
