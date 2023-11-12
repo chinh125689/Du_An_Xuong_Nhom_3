@@ -60,6 +60,7 @@
     justify-content: space-between;
     align-items: center;
     margin-bottom: 30px;
+    width: 1010px;
 }
 .filter .filter_left a button{
     margin-right: 10px;
@@ -129,4 +130,18 @@
     font-size: 16px;
     color: #90a0b7;
     font-weight: 500;
+}
+.stt{
+    margin-top: 15px;
+}
+.stt a{
+    text-decoration: none;
+    border: 1px solid #000;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+@media (min-width: 1512px) {
+    .layout_grid{
+        grid-template-columns: repeat(2, 31% 60%);
+    }
 }
