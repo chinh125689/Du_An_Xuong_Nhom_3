@@ -1,16 +1,19 @@
 .layout_details{
     position: relative;
 }
+#content_details{
+    width: 63%;
+}
 .dropdown{
     position: relative;
-    width: 944px;
+    width: 100%;
     display: inline-block;
 }
 .dropdown::before{
     content: '';
     position: absolute;
     top: 15px;
-    left: 920px;
+    left: 97%;
     z-index: 10000;
     width: 5px;
     height: 5px;
@@ -83,7 +86,7 @@
     text-decoration: none;
 }
 .background .content{
-    width: 944px;
+    width: 62%;
 }
 .background .content h2{
     color: #cecece;
@@ -146,7 +149,7 @@
 }
 .form_register{
     position: absolute;
-    left: 1030px;
+    left: 69%;
     top: 80px;
     width: 400px;
     border: 1px solid #d7d7d7;
@@ -286,7 +289,7 @@
 }
 .border{
     border: 1px solid #d7d7d7;
-    width: 60%;
+    width: 60.3%;
     padding: 10px 20px;
 }
 .border1{
@@ -309,10 +312,10 @@
 }
 .description p{
     color: #222;
-    width: 944px;
+    width: 62%;
 }
 .rating{
-    width: 944px;
+    width: 62%;
 }
 .rating h2{
     font-size: 26px;
@@ -365,7 +368,7 @@
     transition: 0.3s ease-in-out;
 }
 .similar_subject{
-    width: 944px;
+    width: 63%;
 }
 .similar_subject h2{
     font-size: 26px;
@@ -418,4 +421,44 @@
 .similar_subject .similar_flex .similar_price del{
     font-weight: 500;
     color: #334d6e;
+}
+.comment h2{
+    font-size: 26px;
+    color: #222;
+}
+.comment .cmt{
+    display: flex;
+}
+.comment .cmt .img_comment{
+    height: 50px;
+    width: 50px;
+}
+.comment .cmt .img_comment img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.comment .cmt .chil_comment{
+    margin-top: -18px;
+    margin-left: 10px;
+    color: #334d6e;
+}
+.comment .cmt .chil_comment h4 b{
+    font-size: 10px;
+    font-weight: 600;
+    color: #919191;
+}
+.comment .cmt .chil_comment p{
+    margin-top: -10px;
+}
+.comment .cmt .chil_comment a{
+    text-decoration: none;
+}
+@media (min-width: 1512px){
+    .layout_details{
+        width: 100%;
+    }
+    .similar_subject .similar_flex{
+        grid-template-columns: repeat(5, 14% 52% 9% 17% 7%);
+    }
 }

@@ -1,0 +1,36 @@
+.lesson_onl{
+    margin-left: 26%;
+}
+.lesson_onl .title{
+    margin-top: 20px;
+}
+.lesson_onl .title h2{
+    color: #212529;
+}
+.lesson_onl .title button{
+    margin: 20px 0px;
+}
+.lesson_onl a{
+    text-decoration: none;
+}
+.lesson_onl a .content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lesson_onl a .content .img_content{
+    height: 140px;
+    width: 360px;
+}
+.lesson_onl a .content .img_content img{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+.lesson_onl a .content .chil_content{
+    margin-left: 10px;
+    color: #212529;
+}
+.lesson_onl a:hover{
+    text-decoration: none;
+}

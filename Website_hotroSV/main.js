@@ -19,7 +19,7 @@ $(document).ready(function(){
 
 window.onscroll = function() {myFunction()};
 
-// Get the navbar
+// Get the form_register
 var form_register = document.getElementById("form_register");
 
 // Get the offset position of the navbar
