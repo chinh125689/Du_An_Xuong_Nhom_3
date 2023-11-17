@@ -1,41 +1,185 @@
-<!DOCTYPE html>
-<html lang="en">
+<!Doctype html>
+<html class="no-js" lang="zxx">
+    
+<!-- Mirrored from themephi.net/template/eduan/eduan/sign-in.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Nov 2023 08:25:11 GMT -->
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" >
-  <title>User</title> <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-  <!DOCTYPE html>
-  <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>User</title>
-    <link rel="stylesheet" href="css/index.css">
-    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-  </head>
-  <body>
-  <div class="login">
-    <form action="">
-      <h5>ĐĂNG NHẬP</h5>
-      <div class="lo1">
-        <input type="text" placeholder="Email hoặc số điện thoại" required>
-        <i class='bx bxs-user'></i>
-      </div>
-      <div class="lo1">
-        <input type="password" placeholder="Mật khẩu" required>
-        <i class='bx bxs-lock-alt' ></i>
-      </div>
-      <div class="remember">
-        <label><input type="checkbox">Ghi nhớ tôi  </label>
-        <a href="#">Quên mật khẩu</a>
-      </div>
-      <button type="submit" class="btn">Đăng nhập</button>
-      <div class="lo2">
-        <p>Bạn chưa có tài khoản? <a href="dangki.html">Đăng kí</a></p>
-      </div>
-    </form>
-  </div>
-</body>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>School University & Online Education Template | Eduan - eLearning Education</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+		<!-- CSS here -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/animate.min.css">
+        <link rel="stylesheet" href="assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
+        <link rel="stylesheet" href="assets/css/odometer.min.css">
+        <link rel="stylesheet" href="assets/css/nice-select.css">
+        <link rel="stylesheet" href="assets/css/meanmenu.css">
+        <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+        <link rel="stylesheet" href="assets/css/main.css">
+    </head>
+     
+    <body>
+       <!-- sidebar-information-area-start -->
+        <div class="sidebar-info side-info">
+            <div class="sidebar-logo-wrapper mb-25">
+                <div class="row align-items-center">
+                    <div class="col-xl-6 col-8">
+                        <div class="sidebar-logo">
+                            <a href="index.html"><img src="assets/img/logo/logo-white.png" alt="logo-img"></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-4">
+                        <div class="sidebar-close-wrapper text-end">
+                            <button class="sidebar-close side-info-close"><i class="fal fa-times"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="sidebar-menu-wrapper fix">
+                <div class="mobile-menu"></div>
+            </div>
+        </div>
+        <div class="offcanvas-overlay"></div>
+        <!-- sidebar-information-area-end -->
+
+        <main>
+            <!-- breadcrumb area start -->
+            <section class="breadcrumb-area bg-default" data-background="assets/img/breadcrumb/breadcrumb-bg.jpg">
+                <img src="assets/img/breadcrumb/shape-1.png" alt="" class="breadcrumb-shape">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="breadcrumb-content">
+                                <h2 class="breadcrumb-title">Sign In</h2>
+                                <div class="breadcrumb-list">
+                                    <a href="index.html">Home</a>
+                                    <span>Sign In</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- breadcrumb area end -->
+
+            <!-- sign in area start -->
+            <div class="account-area pt-120 pb-120">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-xl-7 col-lg-8 col-md-10">
+                            <div class="account-wrap">
+                                <div class="account-top">
+                                    <div class="account-top-link">
+                                        <a href="sign-up.html">Sign Up</a>
+                                    </div>
+                                    <div class="account-top-current">
+                                        <span>Sign In</span>
+                                    </div>
+                                </div>
+                                <div class="account-main">
+                                    <h3 class="account-title">Sign in to Your Account 👋</h3>
+                                    <form action="#" class="account-form">
+                                        <div class="account-form-item mb-20">
+                                            <div class="account-form-label">
+                                                <label>Your Email</label>
+                                            </div>
+                                            <div class="account-form-input">
+                                                <input type="email" placeholder="Enter Your Email">
+                                            </div>
+                                        </div>
+                                        <div class="account-form-item mb-15">
+                                            <div class="account-form-label">
+                                                <label>Your Password</label>
+                                                <a href="#">Forgot Password ?</a>
+                                            </div>
+                                            <div class="account-form-input account-form-input-pass">
+                                                <input type="text" placeholder="*********">
+                                                <span><i class="fa-thin fa-eye"></i></span>
+                                            </div>
+                                        </div>
+                                        <div class="account-form-condition">
+                                            <label class="condition_label">Remember Me
+                                                <input type="checkbox">
+                                                <span class="check_mark"></span>
+                                            </label>
+                                        </div>
+                                        <div class="account-form-button">
+                                            <button type="submit" class="account-btn">Sign In</button>
+                                        </div>
+                                    </form>
+                                    <div class="account-break">
+                                        <span>OR</span>
+                                    </div>
+                                    <div class="account-bottom">
+                                        <div class="account-option">
+                                            <a href="#" class="account-option-account">
+                                                <img src="assets/img/bg/google.png" alt="">
+                                                <span>Google</span>
+                                            </a>
+                                            <a href="#" class="account-option-account">
+                                                <img src="assets/img/bg/apple.png" alt="">
+                                                <span>Apple</span>
+                                            </a>
+                                            <a href="#" class="account-option-account">
+                                                <img src="assets/img/bg/facebook.png" alt="">
+                                                <span>Facebook</span>
+                                            </a>
+                                        </div>
+                                        <div class="account-bottom-text">
+                                            <p>Don’t have an account ?  <a href="sign-up.html">Sign Up for free</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- sign in area end -->
+
+            <!-- cta area start -->
+            <div class="cta-area">
+                <div class="container">
+                    <div class="cta-wrapper">
+                        <div class="row align-items-center">
+                            <div class="col-xl-6 col-lg-6">
+                                <div class="cta-content mb-30 mb-lg-0">
+                                    <span class="cta-subtitle">Download App</span>
+                                    <h2 class="cta-title">Are you Ready to Start your
+                                        Online Course?</h2>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6">
+                                <div class="cta-button">
+                                    <a href="#" class="cta-btn"><i class="fa-brands fa-apple"></i>Apple Store</a>
+                                    <a href="#" class="cta-btn"><i class="fa-brands fa-google-play"></i>Play Store</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- cta area end -->
+        </main>
+
+		<!-- JS here -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/swiper-bundle.min.js"></script>
+        <script src="assets/js/jquery.meanmenu.min.js"></script>
+        <script src="assets/js/wow.min.js"></script>
+        <script src="assets/js/jquery.nice-select.min.js"></script>
+        <script src="assets/js/jquery.scrollUp.min.js"></script>
+        <script src="assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="assets/js/odometer.min.js"></script>
+        <script src="assets/js/appear.min.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>
+
+<!-- Mirrored from themephi.net/template/eduan/eduan/sign-in.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Nov 2023 08:25:11 GMT -->
 </html>

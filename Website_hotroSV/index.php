@@ -12,8 +12,14 @@
                 break;
             case "blog":
                 include "view/blog/blog.php";
+                break;
+            case "contact":
+                include "view/nav_control/contact.php";
+                break;
         }
     }else{
+        include "view/about.php";
+        include "view/subject.php";
         include "view/home.php";
         include "view/list_gv.php";
         include "view/news.php";

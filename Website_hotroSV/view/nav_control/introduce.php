@@ -1,231 +1,312 @@
-<!DOCTYPE html>
-<html lang="en">
+<!Doctype html>
+<html class="no-js" lang="zxx">
+    
+<!-- Mirrored from themephi.net/template/eduan/eduan/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Nov 2023 08:25:01 GMT -->
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="css/gioithieu.css">
-</head>
-<body>
-    <main>
-        <div class="ND1">
-            <div class="NDC1">
-                <img src="" alt="">
-                <h3>Sứ mệnh</h3>
-                <p>
-                    Chuyển hoá con người, chuyển hoá doanh nghiệp, giúp con người và doanh
-                    nghiệp trở thành phiên bản tốt hơn để đạt được các mục tiêu đột phá.
-                </p>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>School University & Online Education Template | Eduan - eLearning Education</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+		<!-- CSS here -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/animate.min.css">
+        <link rel="stylesheet" href="assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
+        <link rel="stylesheet" href="assets/css/odometer.min.css">
+        <link rel="stylesheet" href="assets/css/nice-select.css">
+        <link rel="stylesheet" href="assets/css/meanmenu.css">
+        <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+        <link rel="stylesheet" href="assets/css/main.css">
+    </head>
+     
+    <body>
+       <!-- sidebar-information-area-start -->
+        <div class="sidebar-info side-info">
+            <div class="sidebar-logo-wrapper mb-25">
+                <div class="row align-items-center">
+                    <div class="col-xl-6 col-8">
+                        <div class="sidebar-logo">
+                            <a href="index.html"><img src="assets/img/logo/logo-white.png" alt="logo-img"></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-4">
+                        <div class="sidebar-close-wrapper text-end">
+                            <button class="sidebar-close side-info-close"><i class="fal fa-times"></i></button>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="NDC2">
-                <img src="" alt="">
-                <h3>Niềm tin</h3>
-                <p>
-                    ○ Phát triển con người là phát triển tổ chức. <br>
-                    ○ Bản chất con người đều là người tốt và có năng lực. <br>
-                    ○ Tất cả các thành viên ở Công ty đều đang nỗ lực hết 
-                    sức để phục vụ người sếp lớn nhất là mục tiêu chung, là lợi ích chung.
-                </p>
-            </div>
-        </div>
-        <div class="ND2">
-            <img src="" alt="">
-                <h3>Tầm nhìn đến 2027</h3>
-                <p>
-                    ○ Phục vụ 10.000 doanh nghiệp và 10 triệu người học ở Việt Nam. <br>
-                    ○ Được khách hàng, đồng nghiệp, đối tác tin yêu bởi dịch vụ trải nghiệm Wow. <br>
-                    ○ Trở thành một công ty tự quản, CBNV có cuộc sống sung túc, mua nhà, mua xe, con cái được du học, người khác kính nể. <br>
-                    ○ Là minh chứng cho một doanh nghiệp tăng trưởng bền vững nhờ đầu tư vào phát triển và chuyển hoá con người.
-                </p>
-        </div>
-        <div class="ND3">
-            <h2>6 Giá trị cốt lõi</h2>
-            <div class="NDC3">
-                <div class="NDC3_1">
-                    <h4>Tập trung vào điều quan trọng</h4>
-                    <p>Điều này có nghĩa rằng Đội ngũ tại Gitiho luôn tập trung vào điều quan trọng,
-                    điều mà nếu hoàn thành thì sẽ tạo ra sự ảnh hưởng lớn tích cực có tính hệ thống</p>
-                </div>
-                <div class="NDC3_2">
-                    <h4>Cùng nhau làm việc đúng</h4>
-                    <p>Có nghĩa là Đội ngũ tại Gitiho luôn cùng nhau xác định rõ mục tiêu quan trọng,
-                        xác định rõ việc phải làm, xác định rõ vai trò của từng người, tầm quan trọng
-                        của từng người trong đội ngũ và sự liên kết chéo giữa từng cá nhân bộ phận với nhau</p>
-                </div>
-                <div class="NDC3_3">
-                    <h4>Trân trọng lời nói</h4>
-                    <p>Đội ngũ luôn trân trọng lời nói của chính mình, lựa chọn sự thẳng thắn, nói gì làm nấy,
-                        đúng thời hạn, đúng giờ, đúng cam kết, Khi không làm được lập tức thông báo cho người
-                        có liên quan, chịu trách nhiệm giải quyết hậu quả và đưa ra lời cam kết mới</p>
-                </div>
-                <div class="NDC3_4">
-                    <h4>Giao tiếp trọn vẹn</h4>
-                    <p>Giao tiếp một cách rõ ràng và thẳng thắn để không tạo ra những hiểu lầm, vướng mắc 
-                    mà không được giải quyết. Hiểu được điều người khác giao tiếp và giao tiếp để người khác hiểu được mình</p>
-                </div>
-                <div class="NDC3_5">
-                    <h4>Bản thân là nguồn gốc của sự việc</h4>
-                    <p>Chọn quan điểm sống xem bản thân là nguồn gốc của những gì mình chọn, những hành động mình thực hiện,
-                        những tác động mình tạo ra cũng như cách nhìn nhận thế giới hiện hữu xung quanh. Mình là nguồn gốc
-                        của sự việc chứ không phải là hậu quả</p>
-                </div>
-                <div class="NDC3_6">
-                    <h4>Trải nghiệm Wow</h4>
-                    <p>Đặt bản thân mình vào vai trò của khách hàng, đối tác, nhân sự (gọi chung là đối tác), chủ động lắng
-                        nghe để hiểu nhu cầu và mối quan tâm của đối tác để đem lại cho họ trải nghiệm ngạc nhiên trên mong đợi. 
-                        Chúng ta cam kết không bao giờ nói "Không" với đối tác mà luôn tìm cách nói "Có"</p>
-                </div>
+            <div class="sidebar-menu-wrapper fix">
+                <div class="mobile-menu"></div>
             </div>
         </div>
-        <div class="ND4">
-            <h2>TÍNH CÁCH LÀM SẢN PHẨM</h2>
-            <div class="NDC4">
-                <div class="NDC4_1">
-                    <div class="NDC4_1_1">
-                        <h4>Thực tiễn</h4>
-                        <p>Sản phẩm thực tế, có lộ trình, dễ sử dụng. <br>
-                        Có tính ứng dụng cao.</p>
-                    </div>
-                    <div class="NDC4_1_1">
-                        <h4>Luôn hướng tới sự hoàn hoản</h4>
-                        <p>Không ngừng cải tiến và đặt ra những tiêu <br>
-                        chuẩn chất lượng cao nhất.</p>
-                    </div>
-                    <div class="NDC4_1_1">
-                        <h4>Tập trung vào khách hàng</h4>
-                        <p>Tập trung vào dịch vụ khách hàng và trải nghiệm <br>
-                        khách hàng, lấy khách hàng làm trọng tâm và <br>
-                        cung cấp giá trị vượt mong đợi</p>
+        <div class="offcanvas-overlay"></div>
+        <!-- sidebar-information-area-end -->
+
+        <main>
+            <!-- breadcrumb area start -->
+            <section class="breadcrumb-area bg-default" data-background="assets/img/breadcrumb/breadcrumb-bg.jpg">
+                <img src="assets/img/breadcrumb/shape-1.png" alt="" class="breadcrumb-shape">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="breadcrumb-content">
+                                <h2 class="breadcrumb-title">About Us</h2>
+                                <div class="breadcrumb-list">
+                                    <a href="index.html">Home</a>
+                                    <span>About</span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="NDC4_2">
-                    <img src="img/new1.jpg" alt="">
+            </section>
+            <!-- breadcrumb area end -->
+
+            <!-- about area start -->
+            <section class="about-area pt-140 pb-90">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-xl-6 col-lg-6">
+                            <div class="about-img mb-50">
+                                <img src="assets/img/about/1/1.png" alt="">
+                                <div class="about-img-meta">
+                                    <span><i class="fa-solid fa-star"></i>4.5 (3.4k Reviews)</span>
+                                    <h5>Congratulations</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6 col-md-10">
+                            <div class="about-content mb-50">
+                                <div class="section-area mb-20">
+                                    <span class="section-subtitle">Start learning Free</span>
+                                    <h2 class="section-title mb-15">Online Course can be Tailored to Need of learners</h2>
+                                    <p class="section-text">
+                                        Through a combination of lectures, readings, discussions, students will gain a solid foundation in educational psychology.
+                                    </p>
+                                </div>
+                                <div class="about-content-list">
+                                    <ul>
+                                        <li>International course collection in 14 languages</li>
+                                        <li>Top certifications in tech and business</li>
+                                        <li>Access to 35,000+ top Eduan courses, anytime, anywhere</li>
+                                    </ul>
+                                </div>
+                                <div class="about-content-button">
+                                    <a href="about.html" class="theme-btn about-btn theme-btn-medium">More Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- about area end -->
+
+            <!-- teacher area start -->
+            <section class="h2_teacher-area pb-80">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-8 col-md-12 mb-30">
+                            <div class="h2_teacher-section bg-default" data-background="assets/img/teacher/2/bg.jpg">
+                                <div class="section-area-2">
+                                    <h2 class="section-title mb-30">Our Most <br> Experience
+                                        <span>Professor <img src="assets/img/banner/2/line.png" alt=""></span></h2>
+                                </div>
+                                <div class="h2_teacher-button">
+                                    <a href="#" class="theme-btn theme-btn-medium teacher-btn">Become An Instructor</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-sm-6">
+                            <div class="h2_teacher-item mb-30">
+                                <div class="h2_teacher-img">
+                                    <img src="assets/img/teacher/2/1.jpg" alt="">
+                                </div>
+                                <div class="h2_teacher-content">
+                                    <h5 class="h2_teacher-content-title">
+                                        <a href="#">Parsley Montana</a>
+                                    </h5>
+                                    <span>Lead Teacher</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-sm-6">
+                            <div class="h2_teacher-item mb-30">
+                                <div class="h2_teacher-img">
+                                    <img src="assets/img/teacher/2/2.jpg" alt="">
+                                </div>
+                                <div class="h2_teacher-content">
+                                    <h5 class="h2_teacher-content-title">
+                                        <a href="#">Parsley Montana</a>
+                                    </h5>
+                                    <span>Lead Teacher</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-sm-6">
+                            <div class="h2_teacher-item mb-30">
+                                <div class="h2_teacher-img">
+                                    <img src="assets/img/teacher/2/3.jpg" alt="">
+                                </div>
+                                <div class="h2_teacher-content">
+                                    <h5 class="h2_teacher-content-title">
+                                        <a href="#">Parsley Montana</a>
+                                    </h5>
+                                    <span>Lead Teacher</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-sm-6">
+                            <div class="h2_teacher-item mb-30">
+                                <div class="h2_teacher-img">
+                                    <img src="assets/img/teacher/2/4.jpg" alt="">
+                                </div>
+                                <div class="h2_teacher-content">
+                                    <h5 class="h2_teacher-content-title">
+                                        <a href="#">Parsley Montana</a>
+                                    </h5>
+                                    <span>Lead Teacher</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-sm-6">
+                            <div class="h2_teacher-item mb-30">
+                                <div class="h2_teacher-img">
+                                    <img src="assets/img/teacher/2/5.jpg" alt="">
+                                </div>
+                                <div class="h2_teacher-content">
+                                    <h5 class="h2_teacher-content-title">
+                                        <a href="#">Parsley Montana</a>
+                                    </h5>
+                                    <span>Lead Teacher</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-sm-6">
+                            <div class="h2_teacher-item mb-30">
+                                <div class="h2_teacher-img">
+                                    <img src="assets/img/teacher/2/6.jpg" alt="">
+                                </div>
+                                <div class="h2_teacher-content">
+                                    <h5 class="h2_teacher-content-title">
+                                        <a href="#">Parsley Montana</a>
+                                    </h5>
+                                    <span>Lead Teacher</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- teacher area end -->
+
+            <!-- blog area start -->
+            <section class="h2_blog-area pb-90">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-xl-6 col-lg-8 col-md-10">
+                            <div class="section-area-2 mb-50 text-center h2_blog-section-area">
+                                <h2 class="section-title mb-30">Our Latest 
+                                    <span>Articles <img src="assets/img/banner/2/line.png" alt=""></span></h2>
+                                <p class="section-text">
+                                    Through a combination of lectures, readings, discussions, students will gain a solid foundation in educational psychology.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xl-4 col-lg-6 col-md-6">
+                            <div class="h2_blog-item mb-30">
+                                <div class="h2_blog-img">
+                                    <a href="blog-details.html"><img src="assets/img/blog/2/blog-1.jpg" alt=""></a>
+                                </div>
+                                <div class="h2_blog-content">
+                                    <div class="h2_blog-content-meta">
+                                        <span><i class="fa-thin fa-user"></i>Admin</span>
+                                        <span><i class="fa-thin fa-clock"></i>June 23, 2023</span>
+                                    </div>
+                                    <h5 class="h2_blog-content-title"><a href="blog-details.html">Education Week News and Views on Education Policy and Practice.</a></h5>
+                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6">
+                            <div class="h2_blog-item mb-30">
+                                <div class="h2_blog-img">
+                                    <a href="blog-details.html"><img src="assets/img/blog/2/blog-2.jpg" alt=""></a>
+                                </div>
+                                <div class="h2_blog-content">
+                                    <div class="h2_blog-content-meta">
+                                        <span><i class="fa-thin fa-user"></i>Admin</span>
+                                        <span><i class="fa-thin fa-clock"></i>June 23, 2023</span>
+                                    </div>
+                                    <h5 class="h2_blog-content-title"><a href="blog-details.html">The Learning Network Teaching and Learning With The New York Times.</a></h5>
+                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6">
+                            <div class="h2_blog-item mb-30">
+                                <div class="h2_blog-img">
+                                    <a href="blog-details.html"><img src="assets/img/blog/2/blog-3.jpg" alt=""></a>
+                                </div>
+                                <div class="h2_blog-content">
+                                    <div class="h2_blog-content-meta">
+                                        <span><i class="fa-thin fa-user"></i>Admin</span>
+                                        <span><i class="fa-thin fa-clock"></i>June 23, 2023</span>
+                                    </div>
+                                    <h5 class="h2_blog-content-title"><a href="blog-details.html">Nothing is Impossible to Learn If you are Passionate About this Subject</a></h5>
+                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- blog area end -->
+
+            <!-- cta area start -->
+            <div class="cta-area">
+                <div class="container">
+                    <div class="cta-wrapper">
+                        <div class="row align-items-center">
+                            <div class="col-xl-6 col-lg-6">
+                                <div class="cta-content mb-30 mb-lg-0">
+                                    <span class="cta-subtitle">Download App</span>
+                                    <h2 class="cta-title">Are you Ready to Start your
+                                        Online Course?</h2>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6">
+                                <div class="cta-button">
+                                    <a href="#" class="cta-btn"><i class="fa-brands fa-apple"></i>Apple Store</a>
+                                    <a href="#" class="cta-btn"><i class="fa-brands fa-google-play"></i>Play Store</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="btn_1">
-                <button type="submit" class="button1">Khám phá ngay</button>
-            </div>
-        </div>
-        <div class="number_for_us">
-            <h2>Những con số về chúng tôi</h2>
-            <div class="ND5">
-                <div class="NDC5_1">
-                    <h3>50+</h3>
-                    <p>Học viện đào tạo</p>
-                </div>
-                <div class="NDC5_2">
-                    <h3>500+</h3>
-                    <p>Khách hàng</p>
-                </div>
-                <div class="NDC5_3">
-                    <h3>300.000+</h3>
-                    <p>Học viên</p></p>
-                </div>
-                <div class="NDC5_4">
-                    <h3>800.000+</h3>    
-                    <p>Truy cập hàng tháng</p>
-                </div>
-                <div class="NDC5_1">
-                    <h3>500+</h3>
-                    <p>Khóa học</p>
-                </div>
-            </div>
-        </div>
-        <div class="ND6">
-            <h2>Báo chí nói về Gitiho</h2>
-            <div class="NDC6">
-                <div class="NDC6_1">
-                    <div class="NDC6_1_1">
-                        <img src="img/new1.jpg" alt="">
-                    </div>
-                    <div class="NDC6_1_2">
-                        <h4>Nhận khoá học tin học miễn phí khi ủng hộ Chính phủ dập dịch COVID-19</h4>
-                        <p>"Trao đi yêu thương – Nhận về kiến thức" là chương trình kêu gọi quyên góp của 
-                        Trường đào tạo Tin học ứng dụng trực tuyến Gitiho nhằm góp sức chống lại dịch bệnh COVID-19</p>
-                    </div>
-                </div>
-                <div class="NDC6_2">
-                    <div class="NDC6_1_1">
-                        <img src="img/new1.jpg" alt="">
-                    </div>
-                    <div class="NDC6_1_2">
-                        <h4>Nhận khoá học tin học miễn phí khi ủng hộ Chính phủ dập dịch COVID-19</h4>
-                        <p>"Trao đi yêu thương – Nhận về kiến thức" là chương trình kêu gọi quyên góp của 
-                        Trường đào tạo Tin học ứng dụng trực tuyến Gitiho nhằm góp sức chống lại dịch bệnh COVID-19</p>
-                    </div>
-                </div>
-                <div class="NDC6_2">
-                    <div class="NDC6_1_1">
-                        <img src="img/new1.jpg" alt="">
-                    </div>
-                    <div class="NDC6_1_2">
-                        <h4>Nhận khoá học tin học miễn phí khi ủng hộ Chính phủ dập dịch COVID-19</h4>
-                        <p>"Trao đi yêu thương – Nhận về kiến thức" là chương trình kêu gọi quyên góp của 
-                        Trường đào tạo Tin học ứng dụng trực tuyến Gitiho nhằm góp sức chống lại dịch bệnh COVID-19</p>
-                    </div>
-                </div>
-            </div>
-            <div class="btn_2">
-                <button type="submit">Xem tất cả</button>
-            </div>
-        </div>
-        <div class="company">
-            <h2>
-                Các công ty lựa chọn khoá đào <br>
-                tạo doanh nghiệp tại Gitiho 
-            </h2>
-            <div class="ND7">
-                <div class="NDC7_1">
-                    <img src="img/logo.png" alt="">
-                </div>
-                <div class="NDC7_2">
-                    <img src="img/logo.png" alt="">
-                </div>
-                <div class="NDC7_3">
-                    <img src="img/logo.png" alt="">
-                </div>
-                <div class="NDC7_4">
-                    <img src="img/logo.png" alt="">
-                </div>
-                <div class="NDC7_5">
-                    <img src="img/logo.png" alt="">
-                </div>
-            </div>
-        </div>
-        <div class="counterparty">
-            <h2>Đối tác của Gitiho</h2>
-            <div class="ND8">
-                <div class="NDC8_1">
-                    <div class="NDC8_1_1">
-                        <img src="img/nd8.png" alt="">
-                    </div>
-                    <div class="NDC8_1_2">
-                        <h4>Nimbus Academy </h4>
-                        <p>Đơn vị đào tạo kỹ năng chuyên môn và ứng dụng Văn phòng hàng đầu</p>
-                    </div>
-                </div>
-                <div class="NDC8_1">
-                    <div class="NDC8_1_1">
-                        <img src="img/nd8_1.jpg" alt="">
-                    </div>
-                    <div class="NDC8_1_2">
-                        <h4>Nimbus Academy </h4>
-                        <p>Đơn vị đào tạo kỹ năng chuyên môn và ứng dụng Văn phòng hàng đầu</p>
-                    </div>
-                </div>
-                <div class="NDC8_1">
-                    <div class="NDC8_1_1">
-                        <img src="img/nd8_2.png" alt="">
-                    </div>
-                    <div class="NDC8_1_2">
-                        <h4>Nimbus Academy </h4>
-                        <p>Đơn vị đào tạo kỹ năng chuyên môn và ứng dụng Văn phòng hàng đầu</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </main>
-</body>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/js/all.min.js"></script>
+            <!-- cta area end -->
+        </main>
+
+		<!-- JS here -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/swiper-bundle.min.js"></script>
+        <script src="assets/js/jquery.meanmenu.min.js"></script>
+        <script src="assets/js/wow.min.js"></script>
+        <script src="assets/js/jquery.nice-select.min.js"></script>
+        <script src="assets/js/jquery.scrollUp.min.js"></script>
+        <script src="assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="assets/js/odometer.min.js"></script>
+        <script src="assets/js/appear.min.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>
+
+<!-- Mirrored from themephi.net/template/eduan/eduan/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Nov 2023 08:25:01 GMT -->
 </html>

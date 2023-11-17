@@ -1,556 +1,222 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="Xemport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="" />
-    <meta
-      name="author"
-      content="Mark Otto, Jacob Thornton, and Bootstrap contributors"
-    />
-    <meta name="generator" content="Hugo 0.104.2" />
-    <title>Blogs</title>
+<!Doctype html>
+<html class="no-js" lang="zxx">
+    
+<!-- Mirrored from themephi.net/template/eduan/eduan/blog.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Nov 2023 08:25:11 GMT -->
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>School University & Online Education Template | Eduan - eLearning Education</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+        <!-- Place favicon.ico in the root directory -->
 
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
-      crossorigin="anonymous"
-    />
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
-      crossorigin="anonymous"
-    ></script>
-
-    <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet" />
-
-    <style>
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        user-select: none;
-      }
-
-      @media (min-width: 768px) {
-        .bd-placeholder-img-lg {
-          font-size: 3.5rem;
-        }
-      }
-
-      .b-example-divider {
-        height: 3rem;
-        background-color: rgba(0, 0, 0, 0.1);
-        border: solid rgba(0, 0, 0, 0.15);
-        border-width: 1px 0;
-        box-shadow: inset 0 0.5em 1.5em rgba(0, 0, 0, 0.1),
-          inset 0 0.125em 0.5em rgba(0, 0, 0, 0.15);
-      }
-
-      .b-example-vr {
-        flex-shrink: 0;
-        width: 1.5rem;
-        height: 100vh;
-      }
-
-      .bi {
-        vertical-align: -0.125em;
-        fill: currentColor;
-      }
-
-      .nav-scroller {
-        position: relative;
-        z-index: 2;
-        height: 2.75rem;
-        overflow-y: hidden;
-      }
-
-      .nav-scroller .nav {
-        display: flex;
-        flex-wrap: nowrap;
-        padding-bottom: 1rem;
-        margin-top: -1px;
-        overflow-x: auto;
-        text-align: center;
-        white-space: nowrap;
-        -webkit-overflow-scrolling: touch;
-      }
-    </style>
-  </head>
-  <body>
-    <header>
-      <div class="collapse bg-dark" id="navbarHeader">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-8 col-md-7 py-4">
-              <h4 class="text-white">Blogs</h4>
-              <p class="text-muted">
-                Đây là nơi tổng hợp những bài blogs mới nhất và hay nhất của
-                Gitio
-              </p>
+		<!-- CSS here -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/animate.min.css">
+        <link rel="stylesheet" href="assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
+        <link rel="stylesheet" href="assets/css/odometer.min.css">
+        <link rel="stylesheet" href="assets/css/nice-select.css">
+        <link rel="stylesheet" href="assets/css/meanmenu.css">
+        <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+        <link rel="stylesheet" href="assets/css/main.css">
+    </head>
+     
+    <body>
+       <!-- sidebar-information-area-start -->
+        <div class="sidebar-info side-info">
+            <div class="sidebar-logo-wrapper mb-25">
+                <div class="row align-items-center">
+                    <div class="col-xl-6 col-8">
+                        <div class="sidebar-logo">
+                            <a href="index.html"><img src="assets/img/logo/logo-white.png" alt="logo-img"></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-4">
+                        <div class="sidebar-close-wrapper text-end">
+                            <button class="sidebar-close side-info-close"><i class="fal fa-times"></i></button>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="col-sm-4 offset-md-1 py-4">
-              <h4 class="text-white">Liên Hệ</h4>
-              <ul class="list-unstyled">
-                <li>
-                  <a href="#" class="text-white">Follow Tôi Trên Facebook</a>
-                </li>
-                <li><a href="#" class="text-white">Youtube</a></li>
-                <li><a href="#" class="text-white">Email</a></li>
-              </ul>
+            <div class="sidebar-menu-wrapper fix">
+                <div class="mobile-menu"></div>
             </div>
-          </div>
         </div>
-      </div>
-      <div class="navbar navbar-dark bg-dark shadow-sm">
-        <div class="container">
-          <a href="#" class="navbar-brand d-flex align-items-center">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="20"
-              height="20"
-              fill="none"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              aria-hidden="true"
-              class="me-2"
-              XemBox="0 0 24 24"
-            >
-              <path
-                d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"
-              />
-              <circle cx="12" cy="13" r="4" />
-            </svg>
-            <strong>Blogs</strong>
-          </a>
-          <button
-            class="navbar-toggler"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarHeader"
-            aria-controls="navbarHeader"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span class="navbar-toggler-icon"></span>
-          </button>
-        </div>
-      </div>
-    </header>
+        <div class="offcanvas-overlay"></div>
+        <!-- sidebar-information-area-end -->
 
-    <main>
-      <section class="py-5 text-center container">
-        <div class="row py-lg-5">
-          <div class="col-lg-6 col-md-8 mx-auto">
-            <h1 class="fw-light">Blogs</h1>
-            <p class="lead text-muted">
-              Đây là nơi tổng hợp những bài blogs mới nhất và hay nhất của
-              Gitiho
-            </p>
-            <p>
-              <a href="#" class="btn btn-primary my-2">Blogs Mới Nhất</a>
-              <a href="#" class="btn btn-secondary my-2">Xem Nhiều Nhất</a>
-            </p>
-          </div>
-        </div>
-      </section>
-
-      <div class="album py-5 bg-light">
-        <div class="container">
-          <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-            <div class="col">
-              <div class="card shadow-sm">
-                <svg
-                  class="bd-placeholder-img card-img-top"
-                  width="100%"
-                  height="225"
-                  xmlns="http://www.w3.org/2000/svg"
-                  role="img"
-                  aria-label="Placeholder: Ảnh"
-                  preserveAspectRatio="xMidYMid slice"
-                  focusable="false"
-                >
-                  <title>Placeholder</title>
-                  <rect width="100%" height="100%" fill="#55595c" />
-                  <text x="50%" y="50%" fill="#eceeef" dy=".3em">Ảnh</text>
-                </svg>
-
-                <div class="card-body">
-                  <p class="card-text">Mô Tả...</p>
-                  <div
-                    class="d-flex justify-content-between align-items-center"
-                  >
-                    <div class="btn-group">
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Xem
-                      </button>
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Lưu
-                      </button>
+        <main>
+            <!-- breadcrumb area start -->
+            <section class="breadcrumb-area bg-default" data-background="assets/img/breadcrumb/breadcrumb-bg.jpg">
+                <img src="assets/img/breadcrumb/shape-1.png" alt="" class="breadcrumb-shape">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="breadcrumb-content">
+                                <h2 class="breadcrumb-title">Blog Grid</h2>
+                                <div class="breadcrumb-list">
+                                    <a href="index.html">Home</a>
+                                    <span>Blog Grid</span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <small class="text-muted">9 Phút Trước</small>
-                  </div>
                 </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card shadow-sm">
-                <svg
-                  class="bd-placeholder-img card-img-top"
-                  width="100%"
-                  height="225"
-                  xmlns="http://www.w3.org/2000/svg"
-                  role="img"
-                  aria-label="Placeholder: Ảnh"
-                  preserveAspectRatio="xMidYMid slice"
-                  focusable="false"
-                >
-                  <title>Placeholder</title>
-                  <rect width="100%" height="100%" fill="#55595c" />
-                  <text x="50%" y="50%" fill="#eceeef" dy=".3em">Ảnh</text>
-                </svg>
+            </section>
+            <!-- breadcrumb area end -->
 
-                <div class="card-body">
-                  <p class="card-text">Mô Tả...</p>
-                  <div
-                    class="d-flex justify-content-between align-items-center"
-                  >
-                    <div class="btn-group">
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Xem
-                      </button>
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Lưu
-                      </button>
+            <!-- blog area start -->
+            <section class="innerPage_blog-area pt-120 pb-90">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-4 col-lg-6 col-md-6">
+                            <div class="h2_blog-item mb-30">
+                                <div class="h2_blog-img">
+                                    <a href="blog-details.html"><img src="assets/img/blog/2/blog-1.jpg" alt=""></a>
+                                </div>
+                                <div class="h2_blog-content">
+                                    <div class="h2_blog-content-meta">
+                                        <span><i class="fa-thin fa-user"></i>Admin</span>
+                                        <span><i class="fa-thin fa-clock"></i>June 23, 2023</span>
+                                    </div>
+                                    <h5 class="h2_blog-content-title"><a href="blog-details.html">Education Week News and Views on Education Policy and Practice.</a></h5>
+                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6">
+                            <div class="h2_blog-item mb-30">
+                                <div class="h2_blog-img">
+                                    <a href="blog-details.html"><img src="assets/img/blog/2/blog-2.jpg" alt=""></a>
+                                </div>
+                                <div class="h2_blog-content">
+                                    <div class="h2_blog-content-meta">
+                                        <span><i class="fa-thin fa-user"></i>Admin</span>
+                                        <span><i class="fa-thin fa-clock"></i>June 23, 2023</span>
+                                    </div>
+                                    <h5 class="h2_blog-content-title"><a href="blog-details.html">The Learning Network Teaching and Learning With The New York Times.</a></h5>
+                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6">
+                            <div class="h2_blog-item mb-30">
+                                <div class="h2_blog-img">
+                                    <a href="blog-details.html"><img src="assets/img/blog/2/blog-3.jpg" alt=""></a>
+                                </div>
+                                <div class="h2_blog-content">
+                                    <div class="h2_blog-content-meta">
+                                        <span><i class="fa-thin fa-user"></i>Admin</span>
+                                        <span><i class="fa-thin fa-clock"></i>June 23, 2023</span>
+                                    </div>
+                                    <h5 class="h2_blog-content-title"><a href="blog-details.html">Nothing is Impossible to Learn If you are Passionate About this Subject</a></h5>
+                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6">
+                            <div class="h2_blog-item mb-30">
+                                <div class="h2_blog-img">
+                                    <a href="blog-details.html"><img src="assets/img/blog/2/blog-2.jpg" alt=""></a>
+                                </div>
+                                <div class="h2_blog-content">
+                                    <div class="h2_blog-content-meta">
+                                        <span><i class="fa-thin fa-user"></i>Admin</span>
+                                        <span><i class="fa-thin fa-clock"></i>June 23, 2023</span>
+                                    </div>
+                                    <h5 class="h2_blog-content-title"><a href="blog-details.html">The Learning Network Teaching and Learning With The New York Times.</a></h5>
+                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6">
+                            <div class="h2_blog-item mb-30">
+                                <div class="h2_blog-img">
+                                    <a href="blog-details.html"><img src="assets/img/blog/2/blog-3.jpg" alt=""></a>
+                                </div>
+                                <div class="h2_blog-content">
+                                    <div class="h2_blog-content-meta">
+                                        <span><i class="fa-thin fa-user"></i>Admin</span>
+                                        <span><i class="fa-thin fa-clock"></i>June 23, 2023</span>
+                                    </div>
+                                    <h5 class="h2_blog-content-title"><a href="blog-details.html">Nothing is Impossible to Learn If you are Passionate About this Subject</a></h5>
+                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6">
+                            <div class="h2_blog-item mb-30">
+                                <div class="h2_blog-img">
+                                    <a href="blog-details.html"><img src="assets/img/blog/2/blog-1.jpg" alt=""></a>
+                                </div>
+                                <div class="h2_blog-content">
+                                    <div class="h2_blog-content-meta">
+                                        <span><i class="fa-thin fa-user"></i>Admin</span>
+                                        <span><i class="fa-thin fa-clock"></i>June 23, 2023</span>
+                                    </div>
+                                    <h5 class="h2_blog-content-title"><a href="blog-details.html">Education Week News and Views on Education Policy and Practice.</a></h5>
+                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Read More</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <small class="text-muted">9 Phút Trước</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card shadow-sm">
-                <svg
-                  class="bd-placeholder-img card-img-top"
-                  width="100%"
-                  height="225"
-                  xmlns="http://www.w3.org/2000/svg"
-                  role="img"
-                  aria-label="Placeholder: Ảnh"
-                  preserveAspectRatio="xMidYMid slice"
-                  focusable="false"
-                >
-                  <title>Placeholder</title>
-                  <rect width="100%" height="100%" fill="#55595c" />
-                  <text x="50%" y="50%" fill="#eceeef" dy=".3em">Ảnh</text>
-                </svg>
-
-                <div class="card-body">
-                  <p class="card-text">Mô Tả...</p>
-                  <div
-                    class="d-flex justify-content-between align-items-center"
-                  >
-                    <div class="btn-group">
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Xem
-                      </button>
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Lưu
-                      </button>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="pagination-area mt-20 mb-30">
+                                <ul>
+                                    <li><a href="#">01</a></li>
+                                    <li><a href="#">02</a></li>
+                                    <li><a href="#">03</a></li>
+                                    <li><a href="#">04</a></li>
+                                    <li><a href="#"><i class="fa-light fa-angle-right"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
-                    <small class="text-muted">9 Phút Trước</small>
-                  </div>
                 </div>
-              </div>
-            </div>
+            </section>
+            <!-- blog area end -->
 
-            <div class="col">
-              <div class="card shadow-sm">
-                <svg
-                  class="bd-placeholder-img card-img-top"
-                  width="100%"
-                  height="225"
-                  xmlns="http://www.w3.org/2000/svg"
-                  role="img"
-                  aria-label="Placeholder: Ảnh"
-                  preserveAspectRatio="xMidYMid slice"
-                  focusable="false"
-                >
-                  <title>Placeholder</title>
-                  <rect width="100%" height="100%" fill="#55595c" />
-                  <text x="50%" y="50%" fill="#eceeef" dy=".3em">Ảnh</text>
-                </svg>
-
-                <div class="card-body">
-                  <p class="card-text">Mô Tả...</p>
-                  <div
-                    class="d-flex justify-content-between align-items-center"
-                  >
-                    <div class="btn-group">
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Xem
-                      </button>
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Lưu
-                      </button>
+            <!-- cta area start -->
+            <div class="cta-area">
+                <div class="container">
+                    <div class="cta-wrapper">
+                        <div class="row align-items-center">
+                            <div class="col-xl-6 col-lg-6">
+                                <div class="cta-content mb-30 mb-lg-0">
+                                    <span class="cta-subtitle">Download App</span>
+                                    <h2 class="cta-title">Are you Ready to Start your
+                                        Online Course?</h2>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6">
+                                <div class="cta-button">
+                                    <a href="#" class="cta-btn"><i class="fa-brands fa-apple"></i>Apple Store</a>
+                                    <a href="#" class="cta-btn"><i class="fa-brands fa-google-play"></i>Play Store</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <small class="text-muted">9 Phút Trước</small>
-                  </div>
                 </div>
-              </div>
             </div>
-            <div class="col">
-              <div class="card shadow-sm">
-                <svg
-                  class="bd-placeholder-img card-img-top"
-                  width="100%"
-                  height="225"
-                  xmlns="http://www.w3.org/2000/svg"
-                  role="img"
-                  aria-label="Placeholder: Ảnh"
-                  preserveAspectRatio="xMidYMid slice"
-                  focusable="false"
-                >
-                  <title>Placeholder</title>
-                  <rect width="100%" height="100%" fill="#55595c" />
-                  <text x="50%" y="50%" fill="#eceeef" dy=".3em">Ảnh</text>
-                </svg>
+            <!-- cta area end -->
+        </main>
 
-                <div class="card-body">
-                  <p class="card-text">Mô Tả...</p>
-                  <div
-                    class="d-flex justify-content-between align-items-center"
-                  >
-                    <div class="btn-group">
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Xem
-                      </button>
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Lưu
-                      </button>
-                    </div>
-                    <small class="text-muted">9 Phút Trước</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card shadow-sm">
-                <svg
-                  class="bd-placeholder-img card-img-top"
-                  width="100%"
-                  height="225"
-                  xmlns="http://www.w3.org/2000/svg"
-                  role="img"
-                  aria-label="Placeholder: Ảnh"
-                  preserveAspectRatio="xMidYMid slice"
-                  focusable="false"
-                >
-                  <title>Placeholder</title>
-                  <rect width="100%" height="100%" fill="#55595c" />
-                  <text x="50%" y="50%" fill="#eceeef" dy=".3em">Ảnh</text>
-                </svg>
+		<!-- JS here -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/swiper-bundle.min.js"></script>
+        <script src="assets/js/jquery.meanmenu.min.js"></script>
+        <script src="assets/js/wow.min.js"></script>
+        <script src="assets/js/jquery.nice-select.min.js"></script>
+        <script src="assets/js/jquery.scrollUp.min.js"></script>
+        <script src="assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="assets/js/odometer.min.js"></script>
+        <script src="assets/js/appear.min.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>
 
-                <div class="card-body">
-                  <p class="card-text">Mô Tả...</p>
-                  <div
-                    class="d-flex justify-content-between align-items-center"
-                  >
-                    <div class="btn-group">
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Xem
-                      </button>
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Lưu
-                      </button>
-                    </div>
-                    <small class="text-muted">9 Phút Trước</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col">
-              <div class="card shadow-sm">
-                <svg
-                  class="bd-placeholder-img card-img-top"
-                  width="100%"
-                  height="225"
-                  xmlns="http://www.w3.org/2000/svg"
-                  role="img"
-                  aria-label="Placeholder: Ảnh"
-                  preserveAspectRatio="xMidYMid slice"
-                  focusable="false"
-                >
-                  <title>Placeholder</title>
-                  <rect width="100%" height="100%" fill="#55595c" />
-                  <text x="50%" y="50%" fill="#eceeef" dy=".3em">Ảnh</text>
-                </svg>
-
-                <div class="card-body">
-                  <p class="card-text">Mô Tả...</p>
-                  <div
-                    class="d-flex justify-content-between align-items-center"
-                  >
-                    <div class="btn-group">
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Xem
-                      </button>
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Lưu
-                      </button>
-                    </div>
-                    <small class="text-muted">9 Phút Trước</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card shadow-sm">
-                <svg
-                  class="bd-placeholder-img card-img-top"
-                  width="100%"
-                  height="225"
-                  xmlns="http://www.w3.org/2000/svg"
-                  role="img"
-                  aria-label="Placeholder: Ảnh"
-                  preserveAspectRatio="xMidYMid slice"
-                  focusable="false"
-                >
-                  <title>Placeholder</title>
-                  <rect width="100%" height="100%" fill="#55595c" />
-                  <text x="50%" y="50%" fill="#eceeef" dy=".3em">Ảnh</text>
-                </svg>
-
-                <div class="card-body">
-                  <p class="card-text">Mô Tả...</p>
-                  <div
-                    class="d-flex justify-content-between align-items-center"
-                  >
-                    <div class="btn-group">
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Xem
-                      </button>
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Lưu
-                      </button>
-                    </div>
-                    <small class="text-muted">9 Phút Trước</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card shadow-sm">
-                <svg
-                  class="bd-placeholder-img card-img-top"
-                  width="100%"
-                  height="225"
-                  xmlns="http://www.w3.org/2000/svg"
-                  role="img"
-                  aria-label="Placeholder: Ảnh"
-                  preserveAspectRatio="xMidYMid slice"
-                  focusable="false"
-                >
-                  <title>Placeholder</title>
-                  <rect width="100%" height="100%" fill="#55595c" />
-                  <text x="50%" y="50%" fill="#eceeef" dy=".3em">Ảnh</text>
-                </svg>
-
-                <div class="card-body">
-                  <p class="card-text">Mô Tả...</p>
-                  <div
-                    class="d-flex justify-content-between align-items-center"
-                  >
-                    <div class="btn-group">
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Xem
-                      </button>
-                      <button
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                      >
-                        Lưu
-                      </button>
-                    </div>
-                    <small class="text-muted">9 Phút Trước</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </main>
-
-    <footer class="text-muted py-5">
-      <div class="container">
-        <p class="float-end mb-1">
-          <a href="#">Về Trang Đầu</a>
-        </p>
-        <p class="mb-1">Tất cả blogs đều thuộc bản quyền của Gitiho &copy;</p>
-        <p class="mb-0">
-          Muốn Khám Phá Thêm Chử?
-          <a href="./index.html">Hãy Ghé Qua Trang Chủ Của Chúng Tôi</a>
-        </p>
-      </div>
-    </footer>
-
-    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
-  </body>
+<!-- Mirrored from themephi.net/template/eduan/eduan/blog.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Nov 2023 08:25:11 GMT -->
 </html>

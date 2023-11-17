@@ -1,256 +1,413 @@
-<!DOCTYPE html>
-<html lang="en">
+<!Doctype html>
+<html class="no-js" lang="zxx">
+    
+<!-- Mirrored from themephi.net/template/eduan/eduan/course-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Nov 2023 08:25:00 GMT -->
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>User</title>
-    <link rel="stylesheet" href="css/details.css">
-</head>
-<body>
-    <div class="layout_details">
-        <div class="background">
-            <div class="title">
-                <a href="">Khóa học</a> > <a href="">Tin học văn phòng</a> > <a href="">Excel</a>
-            </div>
-            <div class="content">
-                <h2>Nhập môn Excel cùng Gitiho</h2>
-                <p>
-                    Nhập môn Excel được thiết kế bài giảng chi tiết dễ hiểu lý thuyết kết hợp với thực
-                    hành đa dạng, kèm theo đó là các bài kiểm tra sau khóa học để giúp người học nắm 
-                    bắt lại toàn bộ kiến thức sau khóa học. Vì vậy khi học xong khóa này học viên không
-                </p>
-                <div class="rating">
-                    <div class="avg_rate">
-                        <p>5 sao <b>4.76</b> <strong>(45 đánh giá)</strong></p>
-                    </div>
-                </div>
-                <div class="more_item">
-                    <div class="professer">
-                        <div class="icon_profess">
-                            <i class="fa-solid fa-user-check"></i>
-                        </div>
-                        <div class="professer_content">
-                            <p>Chuyên gia</p>
-                            <a href="">G-LEARING</a>
-                        </div>
-                    </div>
-                    <div class="time_update">
-                        <div class="icon_time">
-                            <i class="fa-solid fa-calendar-check"></i>
-                        </div>
-                        <div class="time_update_content">
-                            <p>Ngày update</p>
-                            <b>11/2023</b>
-                        </div>
-                    </div>
-                    <div class="user">
-                        <div class="icon_user">
-                            <i class="fa-solid fa-user-tag"></i>
-                        </div>
-                        <div class="user_content">
-                            <p>Học viên đăng ký</p>
-                            <b>13.000</b>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div id="form_register" class="form_register">
-            <img src="img/list1.jpg" alt="">
-            <div class="item_on">
-                <div class="discount">
-                    <i class="fa-regular fa-clock"></i>
-                    <p>Giá ưu đãi chỉ còn <b>1 ngày</b></p>
-                </div>
-                <div class="price">
-                    <div class="price_free">
-                        <p>Miễn phí</p>
-                    </div>
-                    <div class="del_price">
-                        <del>499.000đ</del>
-                    </div>
-                    <div class="text_price">
-                        <p>Tiết kiệm <b>100%</b></p>
-                    </div>
-                </div>
-                <div class="register">
-                    <a href=""><button type="submit">ĐĂNG KÍ NGAY</button></a>
-                </div>
-                <div class="or">
-                    <p>Hoặc</p>
-                </div>
-                <div class="sale_off">
-                    <a href=""><button type="submit"><i class="fa-solid fa-fire-flame-curved"></i> Gói thành viên chỉ 199.000đ/tháng</button></a>
-                </div>
-                <div class="exchange_price">
-                    <i class="fa-solid fa-arrows-rotate"></i>
-                    <p>Hoàn tiền nếu không hài lòng</p>
-                </div>
-                <div class="lesson">
-                    <i class="fa-solid fa-tv"></i>
-                    <p>52 bài giảng, 7 giờ học</p>
-                </div>
-                <div class="learn_online">
-                    <i class="fa-solid fa-chalkboard-user"></i>
-                    <p>Học online, mọi lúc mọi nơi</p>
-                </div>
-                <div class="onl_lap_desk">
-                    <i class="fa-solid fa-laptop-file"></i>
-                    <p>Học trên máy tính, điện thoại</p>
-                </div>
-                <div class="unit_overtime">
-                    <i class="fa-solid fa-floppy-disk"></i>
-                    <p>Sở hữu khóa học trọn đời</p>
-                </div>
-                <div class="dis">
-                    <a href="">Áp dụng mã giảm giá</a>
-                </div>
-            </div>
-        </div>
-        <div class="success_learn">
-            <h2>Bạn đã học được gì?</h2>
-            <div class="border">
-                <div class="border1">
-                    <i class="fa-regular fa-circle-check"></i>
-                    <p>Tăng sự tự tin khi làm việc</p>
-                </div>
-                <div class="border2">
-                    <i class="fa-regular fa-circle-check"></i>
-                    <p>Dễ dàng thích nghi với các yêu cầu trong môi trường mới, công cụ mới</p>
-                </div>
-            </div>
-        </div>
-    </div>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>School University & Online Education Template | Eduan - eLearning Education</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+        <!-- Place favicon.ico in the root directory -->
 
-    <div id="content_details" class="content_details">
-        <h2>Nội dung khóa học</h2>
-        <div class="dropdown">
-            <div class="li_outside">
-                <li><a href="">Cách sử dụng các công cụ trong Excel</a></li>
+		<!-- CSS here -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/animate.min.css">
+        <link rel="stylesheet" href="assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
+        <link rel="stylesheet" href="assets/css/odometer.min.css">
+        <link rel="stylesheet" href="assets/css/nice-select.css">
+        <link rel="stylesheet" href="assets/css/meanmenu.css">
+        <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+        <link rel="stylesheet" href="assets/css/main.css">
+    </head>
+     
+    <body>
+        <!-- sidebar-information-area-start -->
+        <div class="sidebar-info side-info">
+            <div class="sidebar-logo-wrapper mb-25">
+                <div class="row align-items-center">
+                    <div class="col-xl-6 col-8">
+                        <div class="sidebar-logo">
+                            <a href="index.html"><img src="assets/img/logo/logo-white.png" alt="logo-img"></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-4">
+                        <div class="sidebar-close-wrapper text-end">
+                            <button class="sidebar-close side-info-close"><i class="fal fa-times"></i></button>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="option">
-                <ul>
-                    <li><a href="">3. 01. Sao chép định dạng nhanh với Format Painter</a></li>
-                    <li><a href="">4. 02. Định dạng nhanh bằng Cell Styles</a></li>
-                    <li><a href="">5. 03. Sắp xếp bảng tính theo thứ tự tăng dần/ giảm dần với công cụ Sort</a></li>
-                    <li><a href="">6. 04. Thay đổi thiết lập chế độ tính toán với Calculation Options</a></li>
-                    <li><a href="">7. 05. Đặt tên nhanh cho bảng tính theo tên tiêu đề cột</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="dropdown">
-            <div class="li_outside">
-                <li><a href="">Cách sử dụng các công cụ trong Excel</a></li>
-            </div>
-            <div class="option">
-                <ul>
-                    <li><a href="">3. 01. Sao chép định dạng nhanh với Format Painter</a></li>
-                    <li><a href="">4. 02. Định dạng nhanh bằng Cell Styles</a></li>
-                    <li><a href="">5. 03. Sắp xếp bảng tính theo thứ tự tăng dần/ giảm dần với công cụ Sort</a></li>
-                    <li><a href="">6. 04. Thay đổi thiết lập chế độ tính toán với Calculation Options</a></li>
-                    <li><a href="">7. 05. Đặt tên nhanh cho bảng tính theo tên tiêu đề cột</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="dropdown">
-            <div class="li_outside">
-                <li><a href="">Cách sử dụng các công cụ trong Excel</a></li>
-            </div>
-            <div class="option">
-                <ul>
-                    <li><a href="">3. 01. Sao chép định dạng nhanh với Format Painter</a></li>
-                    <li><a href="">4. 02. Định dạng nhanh bằng Cell Styles</a></li>
-                    <li><a href="">5. 03. Sắp xếp bảng tính theo thứ tự tăng dần/ giảm dần với công cụ Sort</a></li>
-                    <li><a href="">6. 04. Thay đổi thiết lập chế độ tính toán với Calculation Options</a></li>
-                    <li><a href="">7. 05. Đặt tên nhanh cho bảng tính theo tên tiêu đề cột</a></li>
-                </ul>
+            <div class="sidebar-menu-wrapper fix">
+                <div class="mobile-menu"></div>
             </div>
         </div>
-        <div class="dropdown">
-            <div class="li_outside">
-                <li><a href="">Cách sử dụng các công cụ trong Excel</a></li>
-            </div>
-            <div class="option">
-                <ul>
-                    <li><a href="">3. 01. Sao chép định dạng nhanh với Format Painter</a></li>
-                    <li><a href="">4. 02. Định dạng nhanh bằng Cell Styles</a></li>
-                    <li><a href="">5. 03. Sắp xếp bảng tính theo thứ tự tăng dần/ giảm dần với công cụ Sort</a></li>
-                    <li><a href="">6. 04. Thay đổi thiết lập chế độ tính toán với Calculation Options</a></li>
-                    <li><a href="">7. 05. Đặt tên nhanh cho bảng tính theo tên tiêu đề cột</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="description">
-        <h2>Mô tả khóa học</h2>
-        <p>
-            Khóa học nhập môn Excel miễn phí này được thiết kế như một cuốn từ điển về Excel với kết cấu đề cương phân chia rành mạch theo các chức năng và các hàm thông dụng để người học dễ dàng tra cứu thông tin.
-            Khóa học đi từ phần kiến thức căn bản, các thao tác cơ bản, các hàm tính toán thường dùng cho đến sử dụng kết hợp các hàm để phân tích số liệu và lập bản báo cáo.
-            Các bài giảng lý thuyết đan xen cùng thực hành đa dạng, cùng các bài test đánh giá năng lực để người học không chỉ hiểu, nắm được kiến thức mà còn thuần thục thao tác làm việc trên Excel.
-            Bài tập thực hành được thiết kế dựa trên các project thực tế từ kinh nghiệm làm việc phân tích dữ liệu sử dụng Excel của giảng viên Gitiho. Hệ thống bài tập đi từ dễ đến khó, từ cơ bản đến nâng cao phù hợp với học viên nhiều trình độ.
-        </p>
-    </div>
-    <div class="rating">
-        <h2>Đánh giá từ học viên</h2>
-        <div class="user_rate">
-            <div class="img_user">
-                <img src="img/list1.jpg" alt="">
-            </div>
-            <div class="name_user">
-                <p>Nguyễn Duy Dũng</p>
-                <b>5 sao</b>
-            </div>
-        </div>
-        <div class="content_user">
-            <p>
-                Đã từng mua khóa học tại website khác nhưng học buồn ngủ vì dạy quá nhiều về lý thuyết từ chuyên ngành, học không nổi, còn giáo án ở Gitiho thì phù hợp ứng dụng thực tế, có bài tập làm xuyên suốt khóa, kèm đáp án. Thầy có tốc độ dạy vừa 
-                phải giọng đọc truyền tải tốt. Đây là khóa học nên mua với các bạn cần bắt đầu tìm hiểu lại từ con số 0 excel.
-            </p>
-        </div>
-        <div class="btn">
-            <a href=""><button type="submit">Góp ý thêm</button></a>
-        </div>
-    </div>
-    <div class="similar_subject">
-        <h2>Học viên cũng mua</h2>
-        <div class="similar_flex">
-            <div class="similar_img">
-                <img src="img/list1.jpg" alt="">
-            </div>
-            <div class="similar_content">
-                <a href=""><h4>Ebook tuyệt đỉnh Excel - Khai phá 10 kỹ thuật ứng dụng Excel mà đại học không dạy bạn</h4></a>
-                <p>Tổng số 2+ giờ</p>
-            </div>
-            <div class="similar_rate">
-                <p>4.5 sao</p>
-            </div>
-            <div class="similar_students">
-                <p><i class="fa-solid fa-users"></i> 72.000 học viên</p>
-            </div>
-            <div class="similar_price">
-                <p>69.000đ</p>
-                <del>99.000đ</del>
-            </div>
-        </div>
-    </div>
-    <div class="comment">
-        <h2>Bình luận</h2>
-        <div class="cmt">
-            <div class="img_comment">
-                <img src="img/gv1.jpg" alt="">
-            </div>
-            <div class="chil_comment">
-                <h4>Nguyễn Duy Dũng <b>11/11/2023</b></h4>
-                <p>Khóa học này trả phí một lần hay nhiều lần vậy?</p>
-                <a href="">Trả lời</a>
-            </div>
-        </div>
-    </div>
+        <div class="offcanvas-overlay"></div>
+        <!-- sidebar-information-area-end -->
 
-    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-</body>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/js/all.min.js"></script>
+        <main>
+            <!-- breadcrumb area start -->
+            <section class="breadcrumb-area bg-default" data-background="assets/img/breadcrumb/breadcrumb-bg.jpg">
+                <img src="assets/img/breadcrumb/shape-1.png" alt="" class="breadcrumb-shape">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="breadcrumb-content">
+                                <h2 class="breadcrumb-title">Introduction to User Experience Design</h2>
+                                <div class="breadcrumb-list">
+                                    <a href="index.html">Home</a>
+                                    <span>Course Details</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- breadcrumb area end -->
 
-<script src="main.js"></script>
+            <!-- course details area start -->
+            <section class="course_details-area pt-120 pb-60">
+                <div class="container">
+                    <div class="course_details-img">
+                        <img src="assets/img/course/details/1.jpg" alt="">
+                    </div>
+                    <div class="row">
+                        <div class="col-xl-8 col-lg-8">
+                            <div class="course_details-wrap mb-55">
+                                <div class="course_details-top mb-60">
+                                    <h3 class="course_details-title">Introduction to User Experience Design</h3>
+                                    <div class="course_details-meta">
+                                        <div class="course_details-meta-left">
+                                            <div class="course_details-author">
+                                                <div class="course_details-author-img">
+                                                    <img src="assets/img/course/details/author.jpg" alt="">
+                                                </div>
+                                                <div class="course_details-author-info">
+                                                    <span>Teacher</span>
+                                                    <h5><a href="team.html">Dylan Meringue</a></h5>
+                                                </div>
+                                            </div>
+                                            <div class="course_details-category">
+                                                <span>Categories</span>
+                                                <h5><a href="#">Online Teaching</a></h5>
+                                            </div>
+                                            <div class="course_details-rating">
+                                                <span>Review</span>
+                                                <ul>
+                                                    <li><i class="fa-solid fa-star"></i></li>
+                                                    <li><i class="fa-solid fa-star"></i></li>
+                                                    <li><i class="fa-solid fa-star"></i></li>
+                                                    <li><i class="fa-solid fa-star"></i></li>
+                                                    <li><i class="fa-solid fa-star"></i></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="course_details-meta-right">
+                                            <a href="#" class="theme-btn theme-btn-medium">Free</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="course_details-tab-button">
+                                    <ul class="nav nav-pills" id="pills-tab" role="tablist">
+                                        <li class="nav-item" role="presentation">
+                                          <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true"><i class="fa-solid fa-bookmark"></i><span>Overview</span></button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                          <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false"><i class="fa-thin fa-box"></i><span>Curriculum</span></button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                          <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false"><i class="fa-thin fa-user"></i><span>Instructor</span></button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                          <button class="nav-link" id="pills-four-tab" data-bs-toggle="pill" data-bs-target="#pills-four" type="button" role="tab" aria-controls="pills-four" aria-selected="false"><i class="fa-thin fa-message-dots"></i><span>Reviews</span></button>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="course_details-tab-content"> 
+                                    <div class="tab-content" id="pills-tabContent">
+                                        <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab" tabindex="0">
+                                            <div class="course_details-content">
+                                                <h4 class="course_details-content-title mb-15">Courses Description</h4>
+                                                <p class="mb-25">Curabitur tempus tincidunt tellus ac placerat. Nullam non libero nisi. Fusce congue est eget nisl tristique ornare. Vestibulum id massa felis. Nullam vehicula bibendum nulla eu vulputate. Aenean fringilla tortor ut laoreet congue magna, a viverra turpis consectetur porta.</p>
+                                                <p class="mb-40">Curabitur tempus tincidunt tellus ac placerat. Nullam non libero nisi. Fusce congue est eget nisl tristique ornare. Vestibulum id massa felis. Nullam vehicula bibendum nulla eu vulputate. Aenean fringilla tortor ut laoreet congue magna, a viverra turpis consectetur porta.</p>
+                                                <h4 class="course_details-content-title mb-20">What you will learn in this course</h4>
+                                                <div class="course_details-content-list">
+                                                    <ul>
+                                                        <li>Etyma protium et olio gravida cur abitur est dui viverrid non mi egret</li>
+                                                        <li>Dictum Bibendum sapiens internum malasada fames ac ante ipsum primes</li>
+                                                        <li>Fauci bus cur abitur pulvinar rut rum masa sed so dales sapiens utricles</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab" tabindex="0">
+                                            <div class="course_details-curriculum">
+                                                <h4 class="course_details-content-title mb-15">Course Curriculum</h4>
+                                                <p class="mb-25">Curabitur tempus tincidunt tellus ac placerat. Nullam non libero nisi. Fusce congue est eget nisl tristique ornare. Vestibulum id massa felis. Nullam vehicula bibendum nulla eu vulputate. Aenean fringilla tortor ut laoreet congue magna, a viverra turpis consectetur porta.</p>
+                                                <div class="accordion" id="Expp">
+                                                    <div class="accordion-item">
+                                                        <h2 class="accordion-header" id="headingOne">
+                                                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                                                Greetings and introduction
+                                                            </button>
+                                                        </h2>
+                                                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#Expp">
+                                                            <div class="accordion-body">
+                                                                <ul>
+                                                                    <li>
+                                                                        <a href="#"><i class="fa-brands fa-youtube"></i>Getting Started </a>
+                                                                        <span>04:00<i class="fa-light fa-lock-keyhole"></i></span>
+                                                                    </li>
+                                                                    <li><a href="#"><i class="fa-brands fa-youtube"></i>WP Theme Development  </a><span>04:00<i class="fa-light fa-lock-keyhole"></i></span></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="accordion-item">
+                                                        <h2 class="accordion-header" id="headingThree">
+                                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                                Lesson 1
+                                                            </button>
+                                                        </h2>
+                                                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#Expp">
+                                                            <div class="accordion-body">
+                                                                <ul>
+                                                                    <li>
+                                                                        <a href="#"><i class="fa-brands fa-youtube"></i>Getting Started </a>
+                                                                        <span>04:00<i class="fa-light fa-lock-keyhole"></i></span>
+                                                                    </li>
+                                                                    <li><a href="#"><i class="fa-brands fa-youtube"></i>WP Theme Development  </a><span>04:00<i class="fa-light fa-lock-keyhole"></i></span></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="accordion-item">
+                                                        <h2 class="accordion-header" id="headingFour">
+                                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                                                Lesson 2
+                                                            </button>
+                                                        </h2>
+                                                        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#Expp">
+                                                            <div class="accordion-body">
+                                                                <ul>
+                                                                    <li>
+                                                                        <a href="#"><i class="fa-brands fa-youtube"></i>Getting Started </a>
+                                                                        <span>04:00<i class="fa-light fa-lock-keyhole"></i></span>
+                                                                    </li>
+                                                                    <li><a href="#"><i class="fa-brands fa-youtube"></i>WP Theme Development  </a><span>04:00<i class="fa-light fa-lock-keyhole"></i></span></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="accordion-item">
+                                                        <h2 class="accordion-header" id="headingFive">
+                                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                                                Lesson 3
+                                                            </button>
+                                                        </h2>
+                                                        <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#Expp">
+                                                            <div class="accordion-body">
+                                                                <ul>
+                                                                    <li>
+                                                                        <a href="#"><i class="fa-brands fa-youtube"></i>Getting Started </a>
+                                                                        <span>04:00<i class="fa-light fa-lock-keyhole"></i></span>
+                                                                    </li>
+                                                                    <li><a href="#"><i class="fa-brands fa-youtube"></i>WP Theme Development  </a><span>04:00<i class="fa-light fa-lock-keyhole"></i></span></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="accordion-item">
+                                                        <h2 class="accordion-header" id="headingSix">
+                                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                                                Lesson 4
+                                                            </button>
+                                                        </h2>
+                                                        <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#Expp">
+                                                            <div class="accordion-body">
+                                                                <ul>
+                                                                    <li>
+                                                                        <a href="#"><i class="fa-brands fa-youtube"></i>Getting Started </a>
+                                                                        <span>04:00<i class="fa-light fa-lock-keyhole"></i></span>
+                                                                    </li>
+                                                                    <li><a href="#"><i class="fa-brands fa-youtube"></i>WP Theme Development  </a><span>04:00<i class="fa-light fa-lock-keyhole"></i></span></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab" tabindex="0">
+                                            <div class="course_details-instructor">
+                                                <div class="course_details-thumbnail w_img">
+                                                    <img src="assets/img/teacher/2/1.jpg" alt="team images">
+                                                </div>
+                                                <div class="course_details-author-content">
+                                                    <h6 class="course_details-author-title">Jane Seymour</h6>
+                                                    <span class="course_details-author-subtitle">Founder &amp; CEO</span>
+                                                    <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua enim minim veniam quis nostrud exercitation ulla mco laboris nisi ut aliquip ex ea commodo consequat. duis aute irure dolor in reprehenderit in voluptate.</p>
+                                                    <div class="contact-social">
+                                                        <span>Social Media</span>
+                                                        <ul>
+                                                            <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                                            <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                                            <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                                            <li><a href="#"><i class="fa-brands fa-behance"></i></a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="tab-pane fade" id="pills-four" role="tabpanel" aria-labelledby="pills-four-tab" tabindex="0">
+                                            <div class="course_details-review">
+                                                <h4 class="course_details-review-title">Student Ratings &amp; Reviews</h4>
+                                                <div class="course_details-review-wrap">
+                                                    <div class="row d-flex align-items-center">
+                                                        <div class="col-md-4 col-sm-4">
+                                                            <div class="course_details-review-left">
+                                                                <h5>5.0</h5>
+                                                                <ul>
+                                                                    <li><a href="#"><i class="fa-solid fa-star"></i></a></li>
+                                                                    <li><a href="#"><i class="fa-solid fa-star"></i></a></li>
+                                                                    <li><a href="#"><i class="fa-solid fa-star"></i></a></li>
+                                                                    <li><a href="#"><i class="fa-solid fa-star"></i></a></li>
+                                                                    <li><a href="#"><i class="fa-solid fa-star"></i></a></li>
+                                                                </ul>
+                                                                <p>(4 Reviews)</p>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-8 col-sm-8">
+                                                            <div class="course_details-review-content">
+                                                                <ul>
+                                                                    <li>
+                                                                        <span class="review-rating">5 <i class="fa-solid fa-star"></i></span>
+                                                                        <span class="review-progress-bar"></span>
+                                                                        <span class="review-rating-count">1</span>
+                                                                    </li>
+                                                                    <li>
+                                                                        <span class="review-rating">4 <i class="fa-solid fa-star"></i></span>
+                                                                        <span class="review-progress-bar"></span>
+                                                                        <span class="review-rating-count">3</span>
+                                                                    </li>
+                                                                    <li>
+                                                                        <span class="review-rating">5 <i class="fa-solid fa-star"></i></span>
+                                                                        <span class="review-progress-bar"></span>
+                                                                        <span class="review-rating-count">0</span>
+                                                                    </li>
+                                                                    <li>
+                                                                        <span class="review-rating">5 <i class="fa-solid fa-star"></i></span>
+                                                                        <span class="review-progress-bar"></span>
+                                                                        <span class="review-rating-count">0</span>
+                                                                    </li>
+                                                                    <li>
+                                                                        <span class="review-rating">5 <i class="fa-solid fa-star"></i></span>
+                                                                        <span class="review-progress-bar"></span>
+                                                                        <span class="review-rating-count">0</span>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4">
+                            <div class="course_details-sidebar mb-60">
+                                <div class="course_details-price">
+                                    <del>$36.00</del>
+                                    <h2>$28.00</h2>
+                                </div>
+                                <div class="course_details-list">
+                                    <ul>
+                                        <li>
+                                            <span><i class="fa-thin fa-clock"></i>Duration</span>
+                                            <span>15 Weeks</span>
+                                        </li>
+                                        <li>
+                                            <span><i class="fa-thin fa-user-group"></i>Students</span>
+                                            <span>354</span>
+                                        </li>
+                                        <li>
+                                            <span><i class="fa-thin fa-file-lines"></i>Lessons</span>
+                                            <span>42</span>
+                                        </li>
+                                        <li>
+                                            <span><i class="fa-thin fa-chart-line-up"></i>Skill Level</span>
+                                            <span>Beginner</span>
+                                        </li>
+                                        <li>
+                                            <span><i class="fa-thin fa-language"></i>Language</span>
+                                            <span>English</span>
+                                        </li>
+                                        <li>
+                                            <span><i class="fa-thin fa-user"></i>Instructor</span>
+                                            <span>Dylan Meringue</span>
+                                        </li>
+                                        <li>
+                                            <span><i class="fa-thin fa-percent"></i>Pass Percentage</span>
+                                            <span>84%</span>
+                                        </li>
+                                        <li>
+                                            <span><i class="fa-thin fa-calendar-days"></i>Deadline</span>
+                                            <span>24 March 2023</span>
+                                        </li>
+                                    </ul>
+                                    <div class="course_details-sidebar-btn">
+                                        <a href="#" class="course-btn theme-btn theme-btn-big">Purchase Now</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- course details area end -->
+
+            <!-- cta area start -->
+            <div class="cta-area">
+                <div class="container">
+                    <div class="cta-wrapper">
+                        <div class="row align-items-center">
+                            <div class="col-xl-6 col-lg-6">
+                                <div class="cta-content mb-30 mb-lg-0">
+                                    <span class="cta-subtitle">Download App</span>
+                                    <h2 class="cta-title">Are you Ready to Start your
+                                        Online Course?</h2>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6">
+                                <div class="cta-button">
+                                    <a href="#" class="cta-btn"><i class="fa-brands fa-apple"></i>Apple Store</a>
+                                    <a href="#" class="cta-btn"><i class="fa-brands fa-google-play"></i>Play Store</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- cta area end -->
+        </main>
+
+		<!-- JS here -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/swiper-bundle.min.js"></script>
+        <script src="assets/js/jquery.meanmenu.min.js"></script>
+        <script src="assets/js/wow.min.js"></script>
+        <script src="assets/js/jquery.nice-select.min.js"></script>
+        <script src="assets/js/jquery.scrollUp.min.js"></script>
+        <script src="assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="assets/js/odometer.min.js"></script>
+        <script src="assets/js/appear.min.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>
+
+<!-- Mirrored from themephi.net/template/eduan/eduan/course-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Nov 2023 08:25:01 GMT -->
 </html>
