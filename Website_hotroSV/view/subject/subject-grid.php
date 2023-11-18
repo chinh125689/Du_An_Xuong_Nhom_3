@@ -55,10 +55,10 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="breadcrumb-content">
-                                <h2 class="breadcrumb-title">Course Archive</h2>
+                                <h2 class="breadcrumb-title">Lưu trữ khóa học</h2>
                                 <div class="breadcrumb-list">
-                                    <a href="index.html">Home</a>
-                                    <span>Course</span>
+                                    <a href="index.html">Trang chủ</a>
+                                    <span>Khóa học</span>
                                 </div>
                             </div>
                         </div>
@@ -74,17 +74,17 @@
                         <div class="row justify-content-between align-items-center">
                             <div class="col-xl-4 col-md-4">
                                 <div class="innerPage_course-left mb-20">
-                                    <p>Showing 1-8 of 24 results</p>
+                                    <p>Hiển thị 1-8 trên 24 kết quả</p>
                                 </div>
                             </div>
                             <div class="col-xl-8 col-md-8">
                                 <div class="innerPage_course-right mb-20">
                                     <div class="innerPage_course-category">
                                         <select name="select" class="innerPage_course-category-list has-nice-select">
-                                            <option value="1">Art & Design</option>
-                                            <option value="2">Graphic Design</option>
-                                            <option value="3">Web Design</option>
-                                            <option value="4">UX/UI Design</option>
+                                            <option value="1">Thiết kế mỹ thuật</option>
+                                            <option value="2">Thiết kế đồ họa</option>
+                                            <option value="3">Thiết kế web</option>
+                                            <option value="4">Thiết kế UX/UI</option>
                                         </select>
                                     </div>
                                     <div class="innerPage_course-search">
@@ -113,35 +113,35 @@
                                                 <li><i class="fa-solid fa-star"></i></li>
                                                 <li><i class="fa-solid fa-star"></i></li>
                                             </ul>
-                                            <span>(03 Reviews)</span>
+                                            <span>(03 Đánh giá)</span>
                                         </div>
                                         <div class="h2_course-save">
                                             <a href="#"><i class="fa-thin fa-bookmark"></i></a>
                                         </div>
                                     </div>
-                                    <h5 class="h2_course-content-title"><a href="course-details.html">Introduction to Psychology Subject</a></h5>
+                                    <h5 class="h2_course-content-title"><a href="course-details.html">Giới thiệu môn Tâm lý học</a></h5>
                                     <div class="h2_course-content-info">
-                                        <span><i class="fa-thin fa-book-blank"></i>23 Lessons</span>
-                                        <span><i class="fa-thin fa-user-group"></i>45 Students</span>
+                                        <span><i class="fa-thin fa-book-blank"></i>23 bài học</span>
+                                        <span><i class="fa-thin fa-user-group"></i>45 học sinh</span>
                                     </div>
                                     <p class="h2_course-content-text">
-                                        Through a combination of lectures, readings and discussions students.
+                                    Thông qua sự kết hợp giữa bài giảng, bài đọc và thảo luận của học sinh.
                                     </p>
                                     <div class="h2_course-content-author">
                                         <div class="h2_course-author-img">
                                             <img src="assets/img/course/2/author-1.jpg" alt="">
                                         </div>
                                         <div class="h2_course-author-info">
-                                            <span>By <a href="#">Eric Wid get</a></span>
+                                            <span>Dạy bởi <a href="#">Phạm Văn Tuyển</a></span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="h2_course-content-bottom">
                                     <div class="h2_course-bottom-price">
-                                        <span><del>$140</del>$96.00</span>
+                                        <span><del>3.397.100đ</del>2.329.440đ</span>
                                     </div>
                                     <div class="h2_course-bottom-btn">
-                                        <a href="course-details.html">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                        <a href="course-details.html">Thêm chi tiết<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -161,35 +161,35 @@
                                                 <li><i class="fa-solid fa-star"></i></li>
                                                 <li><i class="fa-solid fa-star"></i></li>
                                             </ul>
-                                            <span>(03 Reviews)</span>
+                                            <span>(03 Đánh giá)</span>
                                         </div>
                                         <div class="h2_course-save">
                                             <a href="#"><i class="fa-thin fa-bookmark"></i></a>
                                         </div>
                                     </div>
-                                    <h5 class="h2_course-content-title"><a href="course-details.html">Complete Angular Developer in 2023</a></h5>
+                                    <h5 class="h2_course-content-title"><a href="course-details.html">Nhà phát triển góc hoàn chỉnh vào năm 2023</a></h5>
                                     <div class="h2_course-content-info">
-                                        <span><i class="fa-thin fa-book-blank"></i>54 Lessons</span>
-                                        <span><i class="fa-thin fa-user-group"></i>72 Students</span>
+                                        <span><i class="fa-thin fa-book-blank"></i>54 Lớp học</span>
+                                        <span><i class="fa-thin fa-user-group"></i>72 Học sinh</span>
                                     </div>
                                     <p class="h2_course-content-text">
-                                        Through a combination of lectures, readings and discussions students.
+                                    Thông qua sự kết hợp giữa bài giảng, bài đọc và thảo luận của học sinh.
                                     </p>
                                     <div class="h2_course-content-author">
                                         <div class="h2_course-author-img">
                                             <img src="assets/img/course/2/author-2.jpg" alt="">
                                         </div>
                                         <div class="h2_course-author-info">
-                                            <span>By <a href="#">Hanson Deck</a></span>
+                                            <span>Dạy bởi <a href="#">Đỗ Bá Chính</a></span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="h2_course-content-bottom">
                                     <div class="h2_course-bottom-price">
-                                        <span><del>$120</del>$70.00</span>
+                                        <span><del>2.911.800đ</del>1.698.550đ</span>
                                     </div>
                                     <div class="h2_course-bottom-btn">
-                                        <a href="course-details.html">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                        <a href="course-details.html">Thêm chi tiết<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -209,35 +209,35 @@
                                                 <li><i class="fa-solid fa-star"></i></li>
                                                 <li><i class="fa-solid fa-star"></i></li>
                                             </ul>
-                                            <span>(03 Reviews)</span>
+                                            <span>(03 Đánh giá)</span>
                                         </div>
                                         <div class="h2_course-save">
                                             <a href="#"><i class="fa-thin fa-bookmark"></i></a>
                                         </div>
                                     </div>
-                                    <h5 class="h2_course-content-title"><a href="course-details.html">The Science of Well-being for Teens</a></h5>
+                                    <h5 class="h2_course-content-title"><a href="course-details.html">Khoa học về hạnh phúc cho thanh thiếu niên</a></h5>
                                     <div class="h2_course-content-info">
-                                        <span><i class="fa-thin fa-book-blank"></i>67 Lessons</span>
-                                        <span><i class="fa-thin fa-user-group"></i>24 Students</span>
+                                        <span><i class="fa-thin fa-book-blank"></i>67 Lớp học</span>
+                                        <span><i class="fa-thin fa-user-group"></i>24 Học sinh</span>
                                     </div>
                                     <p class="h2_course-content-text">
-                                        Through a combination of lectures, readings and discussions students.
+                                    Thông qua sự kết hợp giữa bài giảng, bài đọc và thảo luận của học sinh.
                                     </p>
                                     <div class="h2_course-content-author">
                                         <div class="h2_course-author-img">
                                             <img src="assets/img/course/2/author-3.jpg" alt="">
                                         </div>
                                         <div class="h2_course-author-info">
-                                            <span>By <a href="#">Max Conversion</a></span>
+                                            <span>Dạy bởi <a href="#">Nguyễn Đức Chung</a></span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="h2_course-content-bottom">
                                     <div class="h2_course-bottom-price">
-                                        <span><del>$150</del>$99.00</span>
+                                        <span><del>3.639.750đ</del>2.402.235đ</span>
                                     </div>
                                     <div class="h2_course-bottom-btn">
-                                        <a href="course-details.html">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                        <a href="course-details.html">Thêm chi tiết<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -257,35 +257,35 @@
                                                 <li><i class="fa-solid fa-star"></i></li>
                                                 <li><i class="fa-solid fa-star"></i></li>
                                             </ul>
-                                            <span>(03 Reviews)</span>
+                                            <span>(03 Đánh giá)</span>
                                         </div>
                                         <div class="h2_course-save">
                                             <a href="#"><i class="fa-thin fa-bookmark"></i></a>
                                         </div>
                                     </div>
-                                    <h5 class="h2_course-content-title"><a href="course-details.html">AWS Machine Learning Engineer</a></h5>
+                                    <h5 class="h2_course-content-title"><a href="course-details.html">Kỹ sư máy học AWS</a></h5>
                                     <div class="h2_course-content-info">
-                                        <span><i class="fa-thin fa-book-blank"></i>57 Lessons</span>
-                                        <span><i class="fa-thin fa-user-group"></i>98 Students</span>
+                                        <span><i class="fa-thin fa-book-blank"></i>57 Lớp học</span>
+                                        <span><i class="fa-thin fa-user-group"></i>98 Học sinh</span>
                                     </div>
                                     <p class="h2_course-content-text">
-                                        Through a combination of lectures, readings and discussions students.
+                                    Thông qua sự kết hợp giữa bài giảng, bài đọc và thảo luận của học sinh.
                                     </p>
                                     <div class="h2_course-content-author">
                                         <div class="h2_course-author-img">
                                             <img src="assets/img/course/2/author-4.jpg" alt="">
                                         </div>
                                         <div class="h2_course-author-info">
-                                            <span>By <a href="#">Ravi O'Leigh</a></span>
+                                            <span>Dạy bởi <a href="#">Nguyễn Duy Dũng</a></span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="h2_course-content-bottom">
                                     <div class="h2_course-bottom-price">
-                                        <span><del>$159</del>$98.00</span>
+                                        <span><del>3.858.135đ</del>2.377.970đ</span>
                                     </div>
                                     <div class="h2_course-bottom-btn">
-                                        <a href="course-details.html">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                        <a href="course-details.html">Thêm chi tiết<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -305,35 +305,35 @@
                                                 <li><i class="fa-solid fa-star"></i></li>
                                                 <li><i class="fa-solid fa-star"></i></li>
                                             </ul>
-                                            <span>(03 Reviews)</span>
+                                            <span>(03 Đánh giá)</span>
                                         </div>
                                         <div class="h2_course-save">
                                             <a href="#"><i class="fa-thin fa-bookmark"></i></a>
                                         </div>
                                     </div>
-                                    <h5 class="h2_course-content-title"><a href="course-details.html">Introduction User Experience Design</a></h5>
+                                    <h5 class="h2_course-content-title"><a href="course-details.html">Giới thiệu Thiết kế trải nghiệm người dùng</a></h5>
                                     <div class="h2_course-content-info">
-                                        <span><i class="fa-thin fa-book-blank"></i>58 Lessons</span>
-                                        <span><i class="fa-thin fa-user-group"></i>50 Students</span>
+                                        <span><i class="fa-thin fa-book-blank"></i>58 Lớp học</span>
+                                        <span><i class="fa-thin fa-user-group"></i>50 Học sinh</span>
                                     </div>
                                     <p class="h2_course-content-text">
-                                        Through a combination of lectures, readings and discussions students.
+                                    Thông qua sự kết hợp giữa bài giảng, bài đọc và thảo luận của học sinh.
                                     </p>
                                     <div class="h2_course-content-author">
                                         <div class="h2_course-author-img">
                                             <img src="assets/img/course/2/author-5.jpg" alt="">
                                         </div>
                                         <div class="h2_course-author-info">
-                                            <span>By <a href="#">Valentino Morose</a></span>
+                                            <span>Dạy bởi <a href="#">Phùng Thanh Độ</a></span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="h2_course-content-bottom">
                                     <div class="h2_course-bottom-price">
-                                        <span><del>$135</del>$69.00</span>
+                                        <span><del>3.275.775đ</del>1.674.285đ</span>
                                     </div>
                                     <div class="h2_course-bottom-btn">
-                                        <a href="course-details.html">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                        <a href="course-details.html">Thêm chi tiết<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -353,35 +353,35 @@
                                                 <li><i class="fa-solid fa-star"></i></li>
                                                 <li><i class="fa-solid fa-star"></i></li>
                                             </ul>
-                                            <span>(03 Reviews)</span>
+                                            <span>(03 Đánh giá)</span>
                                         </div>
                                         <div class="h2_course-save">
                                             <a href="#"><i class="fa-thin fa-bookmark"></i></a>
                                         </div>
                                     </div>
-                                    <h5 class="h2_course-content-title"><a href="course-details.html">Spoken English for Career Develop</a></h5>
+                                    <h5 class="h2_course-content-title"><a href="course-details.html">Nói tiếng Anh để phát triển nghề nghiệp</a></h5>
                                     <div class="h2_course-content-info">
-                                        <span><i class="fa-thin fa-book-blank"></i>35 Lessons</span>
-                                        <span><i class="fa-thin fa-user-group"></i>24 Students</span>
+                                        <span><i class="fa-thin fa-book-blank"></i>35 Lớp học</span>
+                                        <span><i class="fa-thin fa-user-group"></i>24 Học sinh</span>
                                     </div>
                                     <p class="h2_course-content-text">
-                                        Through a combination of lectures, readings and discussions students.
+                                    Thông qua sự kết hợp giữa bài giảng, bài đọc và thảo luận của học sinh.
                                     </p>
                                     <div class="h2_course-content-author">
                                         <div class="h2_course-author-img">
                                             <img src="assets/img/course/2/author-6.jpg" alt="">
                                         </div>
                                         <div class="h2_course-author-info">
-                                            <span>By <a href="#">Dylan Meringue</a></span>
+                                            <span>Dạy bởi <a href="#">Trần Thái Linh</a></span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="h2_course-content-bottom">
                                     <div class="h2_course-bottom-price">
-                                        <span><del>$230</del>$173</span>
+                                        <span><del>5.580.950đ</del>4.197.845đ</span>
                                     </div>
                                     <div class="h2_course-bottom-btn">
-                                        <a href="course-details.html">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                        <a href="course-details.html">Thêm chi tiết<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -411,9 +411,9 @@
                         <div class="row align-items-center">
                             <div class="col-xl-6 col-lg-6">
                                 <div class="cta-content mb-30 mb-lg-0">
-                                    <span class="cta-subtitle">Download App</span>
-                                    <h2 class="cta-title">Are you Ready to Start your
-                                        Online Course?</h2>
+                                    <span class="cta-subtitle">Tải ứng dụng</span>
+                                    <h2 class="cta-title">Bạn đã sẵn sàng để bắt đầu
+                                         Khóa học trực tuyến?</h2>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">

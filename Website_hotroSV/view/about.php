@@ -7,11 +7,11 @@
                             <div class="col-xl-7 col-lg-6 col-md-12">
                                 <div class="h3_banner-content">
                                     <div class="section-area-3 mb-45 ">
-                                        <span class="section-subtitle">🏆 The Leader in Online Learning</span>
-                                        <h1 class="section-title">Choose <span>3400+</span> Online
-                                            <span>Video</span> Courses With New
-                                            Additions.</h1>
-                                        <p class="section-text">Through a combination of lectures, readings, and discussions, students.</p>
+                                        <span class="section-subtitle">Dẫn đầu về học tập trực tuyến</span>
+                                        <h1 class="section-title">Khóa học <span>3400+</span> Online
+                                            <span>Video</span> Khóa học mới
+                                            Bổ sung.</h1>
+                                        <p class="section-text">Thông qua việc kết hợp các bài giảng, bài đọc và thảo luận, học sinh.</p>
                                     </div>
                                     <form action="#" class="h3_banner-form">
                                         <div class="h3_banner-form-item">
@@ -22,10 +22,10 @@
                                         </div>
                                         <div class="h3_banner-form-item">
                                             <div class="h3_banner-category">
-                                                <a href="#"><i class="fa-solid fa-grid"></i><span>Category</span><i class="fa-light fa-angle-down"></i></a>
+                                                <a href="#"><i class="fa-solid fa-grid"></i><span>Loại</span><i class="fa-light fa-angle-down"></i></a>
                                                 <ul class="h3_banner-category-submenu">
                                                     <li><a href="#">Design</a></li>
-                                                    <li><a href="#">Development</a></li>
+                                                    <li><a href="#">Lập trình</a></li>
                                                     <li><a href="#">Marketing</a></li>
                                                 </ul>
                                             </div>
@@ -50,12 +50,12 @@
                                     </div>
                                     <div class="h3_banner-meta">
                                         <div class="h3_banner-meta-info">
-                                            <span>Popular Course</span>
-                                            <h5>Start Learning Today!!</h5>
+                                            <span>Khóa học phổ biến</span>
+                                            <h5>Bắt đầu học ngay hôm nay!!</h5>
                                         </div>
                                         <div class="h3_banner-meta-rating">
-                                            <span><i class="fa-solid fa-star"></i>4.5 (3.4k Reviews)</span>
-                                            <h5>Congratulations</h5>
+                                            <span><i class="fa-solid fa-star"></i>4.5 (3.4k Lượt xem)</span>
+                                            <h5>Chúc mừng</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -87,30 +87,30 @@
                             <div class="h3_about-wrap mr-65 mb-50">
                                 <img src="assets/img/about/3/shape-4.png" alt="" class="h3_about-wrap-shape">
                                 <div class="section-area-3 mb-35 small-section-area-3">
-                                    <span class="section-subtitle">Know About Us</span>
-                                    <h2 class="section-title mb-25">This Stage Focuses on The Development Young Children Usually Between.</h2>
+                                    <span class="section-subtitle">Biết thêm về chúng tôi</span>
+                                    <h2 class="section-title mb-25">Giai đoạn này tập trung vào sự phát triển của trẻ nhỏ thường ở giữa.</h2>
                                     <p class="section-text">
-                                        Maecenas Felis Tellus, dictum sed fermentum vel, various condiment dolour donec aliquot denim ut auctor molestee, era elite pharetra masa.
+                                    Maecenas Felis Tellus, cho biết nhưng letnum hoặc, nhiều loại gia vị ảm đạm cho đến khi một số denim như tác giả quấy rối, thời đại ưu tú chùn bước masa.
                                     </p>
                                 </div>
                                 <div class="h3_about-content mb-35">
                                     <div class="row">
                                         <div class="col-sm-6">
-                                            <span><i class="fa-regular fa-check"></i>Access Lifetime any devices</span>
+                                            <span><i class="fa-regular fa-check"></i>Truy cập trọn đời mọi thiết bị</span>
                                         </div>
                                         <div class="col-sm-6">
-                                            <span><i class="fa-regular fa-check"></i>Free for Student</span>
+                                            <span><i class="fa-regular fa-check"></i>Miễn phí cho sinh viên</span>
                                         </div>
                                         <div class="col-sm-6">
-                                            <span><i class="fa-regular fa-check"></i>No Credit Card Required</span>
+                                            <span><i class="fa-regular fa-check"></i>Không cần thẻ tín dụng</span>
                                         </div>
                                         <div class="col-sm-6">
-                                            <span><i class="fa-regular fa-check"></i>30 Days Trial</span>
+                                            <span><i class="fa-regular fa-check"></i>Dùng thứ 30 ngày</span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="h3_about-button">
-                                    <a href="#" class="theme-btn theme-btn-medium theme-btn-3">More Details<i class="fa-light fa-arrow-up-right"></i></a>
+                                    <a href="#" class="theme-btn theme-btn-medium theme-btn-3">Thêm chi tiết<i class="fa-light fa-arrow-up-right"></i></a>
                                 </div>
                             </div>
                         </div>

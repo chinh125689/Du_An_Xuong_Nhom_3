@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>School University & Online Education Template | Eduan - eLearning Education</title>
+        <title>Trường Đại học & Mẫu Giáo dục Trực tuyến | Eduan - Giáo dục điện tử</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
@@ -61,47 +61,39 @@
                                 <nav class="h3_main-menu mobile-menu" id="mobile-menu">
                                     <ul>
                                         <li class="menu-has-child">
-                                            <a href="index.html">Home</a>
-                                            <ul class="submenu">
-                                                <li><a href="index.html">Home 1</a></li>
-                                                <li><a href="index-2.html">Home 2</a></li>
-                                                <li><a href="index-3.html">Home 3</a></li>
-                                                <li><a href="index-4.html">Home 4</a></li>
-                                                <li><a href="index-5.html">Home 5</a></li>
-                                                <li><a href="index-6.html">Home 6</a></li>
-                                                <li><a href="index-7.html">Home 7</a></li>
-                                            </ul>
+                                            <a href="./index.php">Trang chủ</a>
+                                            
                                         </li>
                                         <li class="menu-has-child">
-                                            <a href="course.html">Courses</a>
+                                            <a href="course.html">Khóa học </a>
                                             <ul class="submenu">
                                                 <li><a href="index.php?act=dmkhoahoc">Danh mục môn học</a></li>
-                                                <li><a href="course-details.html">Course Details</a></li>
+                                                <li><a href="course-details.html">Chi Tiết Khóa học</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-has-child">
-                                            <a href="#">Pages</a>
+                                            <a href="#">Trang</a>
                                             <ul class="submenu">
                                                 <li><a href="index.php?act=introduce">Giới thiệu</a></li>
-                                                <li><a href="team.html">Teacher</a></li>
-                                                <li><a href="team-details.html">Teacher Details</a></li>
-                                                <li><a href="event.html">Events</a></li>
-                                                <li><a href="event-details.html">Event Details</a></li>
-                                                <li><a href="price.html">Price</a></li>
-                                                <li><a href="gallery.html">Gallery</a></li>
-                                                <li><a href="sign-up.html">Sign Up</a></li>
-                                                <li><a href="sign-in.html">Sign In</a></li>
+                                                <li><a href="team.html">Giáo viên</a></li>
+                                                <li><a href="team-details.html">Thông tin chi tiết về giáo viên</a></li>
+                                                <li><a href="event.html">Sự kiện</a></li>
+                                                <li><a href="event-details.html">Chi tiết sự kiện</a></li>
+                                                <li><a href="price.html">Giá thành</a></li>
+                                                <li><a href="gallery.html">Phòng trưng bày</a></li>
+                                                <li><a href="sign-up.html">Đăng ký</a></li>
+                                                <li><a href="sign-in.html">Đăng nhập</a></li>
                                                 <li><a href="404.html">404</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-has-child">
-                                            <a href="blog.html">Blog</a>
+                                            <a href="blog.html">Tin tức</a>
                                             <ul class="submenu">
-                                                <li><a href="blog.html">Blog</a></li>
-                                                <li><a href="blog-details.html">Blog Details</a></li>
+                                                <li><a href="blog.html">Tin tức</a></li>
+                                                <li><a href="blog-details.html">Chi tiết tin tức</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="index.php?act=contact">Contact</a></li>
+                                        <li><a href="index.php?act=contact">Liên hệ</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -109,7 +101,7 @@
                         <div class="col-xl-3 col-sm-5 col-6">
                             <div class="h3_header-right">
                                 <div class="h3_header-btn d-none d-sm-block">
-                                    <a href="#" class="header-btn theme-btn theme-btn-medium theme-btn-3">Sign Up Now<i class="fa-light fa-arrow-up-right"></i></a>
+                                    <a href="#" class="header-btn theme-btn theme-btn-medium theme-btn-3">Đăng ký ngay <i class="fa-light fa-arrow-up-right"></i></a>
                                 </div>
                                 <div class="header-menu-bar d-xl-none ml-10">
                                     <span class="header-menu-bar-icon side-toggle">

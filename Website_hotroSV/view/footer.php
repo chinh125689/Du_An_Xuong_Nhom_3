@@ -8,7 +8,7 @@
                                     <a href="index.html"><img src="assets/img/logo/logo-white.png" alt=""></a>
                                 </div>
                                 <p class="footer-widget-text mb-35">
-                                    Through a combination of lectures, readings, discussions, students will gain solid foundation in educational.
+                                Thông qua việc kết hợp các bài giảng, bài đọc, thảo luận, học sinh sẽ có được nền tảng giáo dục vững chắc.
                                 </p>
                                 <div class="footer-social">
                                     <ul>
@@ -21,45 +21,45 @@
                         </div>
                         <div class="col-xl-2 col-lg-5 col-md-5 col-sm-6 d-flex justify-content-xl-center">
                             <div class="footer-widget mb-40">
-                                <h5 class="footer-widget-title">Useful Link</h5>
+                                <h5 class="footer-widget-title">Liên kết hữu ích</h5>
                                 <div class="footer-widget-list">
                                     <ul>
-                                        <li><a href="#">About Eduan</a></li>
-                                        <li><a href="#">Contact</a></li>
-                                        <li><a href="#">Help Centre</a></li>
-                                        <li><a href="#">Refund</a></li>
-                                        <li><a href="#">Conditions</a></li>
-                                        <li><a href="#">Privacy Policy</a></li>
+                                        <li><a href="#">Giới thiệu về Eduan</a></li>
+                                        <li><a href="#">Liên hệ</a></li>
+                                        <li><a href="#">Trung tâm trợ giúp</a></li>
+                                        <li><a href="#">Đền bù</a></li>
+                                        <li><a href="#">Điều kiện</a></li>
+                                        <li><a href="#">Chính sách bảo mật</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-2 col-lg-5 col-md-5 col-sm-6 d-flex justify-content-xl-center order-md-4 order-xl-3">
                             <div class="footer-widget mb-40">
-                                <h5 class="footer-widget-title">Categories</h5>
+                                <h5 class="footer-widget-title">Thể loại</h5>
                                 <div class="footer-widget-list">
                                     <ul>
-                                        <li><a href="#">Design Skills</a></li>
-                                        <li><a href="#">Development</a></li>
+                                        <li><a href="#">Kỹ năng thiết kế</a></li>
+                                        <li><a href="#">Phát triển</a></li>
                                         <li><a href="#">Marketing</a></li>
-                                        <li><a href="#">Finance & Accounting</a></li>
-                                        <li><a href="#">IT & Software</a></li>
-                                        <li><a href="#">Sales Marketing</a></li>
+                                        <li><a href="#">Tài chính kế toán</a></li>
+                                        <li><a href="#">CNTT & Phần mềm</a></li>
+                                        <li><a href="#">Tiếp thị bán hàng</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-7 col-md-7 col-sm-12 order-md-3 order-xl-4">
                             <div class="footer-widget ml-80 mb-40">
-                                <h5 class="footer-widget-title">Newsletter</h5>
-                                <p class="footer-widget-text mb-20 newsletter-text">Sign up foe our newsletter and get 34% <br> off your next course.</p>
+                                <h5 class="footer-widget-title">Bản tin</h5>
+                                <p class="footer-widget-text mb-20 newsletter-text">Đăng ký nhận bản tin của chúng tôi và nhận 34% <br> tắt khóa học tiếp theo của bạn.</p>
                                 <form action="#">
                                     <div class="footer-subscribe-form">
                                         <input type="email" placeholder="Enter Your Email*">
                                         <button type="submit">Subscribe</button>
                                     </div>
                                     <div class="footer-subscribe-condition">
-                                        <label class="condition_label">I agree to the terms of use and privacy policy.
+                                        <label class="condition_label">Tôi đồng ý với các điều khoản sử dụng và chính sách quyền riêng tư.
                                             <input type="checkbox">
                                             <span class="check_mark"></span>
                                         </label>
@@ -75,7 +75,7 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="copyright-text">
-                                <p>Copyright © 2023 All Rights Reserved by Eduan</p>
+                                <p>Bản quyền © 2023 Mọi quyền được bảo lưu bởi Eduan</p>
                             </div>
                         </div>
                     </div>
