@@ -16,6 +16,9 @@
             case "contact":
                 include "view/nav_control/contact.php";
                 break;
+            case "news":
+                include "view/news.php";
+                break;    
         }
     }else{
         include "view/about.php";
