@@ -4,8 +4,8 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="section-area-3 text-center mb-40">
-                                <span class="section-subtitle">Top Popular Courses</span>
-                                <h2 class="section-title mb-0">Explore Featured Courses</h2>
+                                <span class="section-subtitle">Top các khóa học</span>
+                                <h2 class="section-title mb-0">Khám phá các khóa học nổi bật</h2>
                             </div>
                         </div>
                     </div>
@@ -15,20 +15,20 @@
                                 <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                     <li class="nav-item" role="presentation">
                                       <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">
-                                        See All
+                                        Tất cả
                                       </button>
                                     </li>
                                     <li class="nav-item" role="presentation">
-                                      <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Trending</button>
+                                      <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Xu hướng</button>
                                     </li>
                                     <li class="nav-item" role="presentation">
-                                      <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">Featured</button>
+                                      <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">Tính năng</button>
                                     </li>
                                     <li class="nav-item" role="presentation">
-                                      <button class="nav-link" id="pills-four-tab" data-bs-toggle="pill" data-bs-target="#pills-four" type="button" role="tab" aria-controls="pills-four" aria-selected="false">Web Design</button>
+                                      <button class="nav-link" id="pills-four-tab" data-bs-toggle="pill" data-bs-target="#pills-four" type="button" role="tab" aria-controls="pills-four" aria-selected="false">Thiết kế web</button>
                                     </li>
                                     <li class="nav-item" role="presentation">
-                                      <button class="nav-link" id="pills-five-tab" data-bs-toggle="pill" data-bs-target="#pills-five" type="button" role="tab" aria-controls="pills-five" aria-selected="false">Popular</button>
+                                      <button class="nav-link" id="pills-five-tab" data-bs-toggle="pill" data-bs-target="#pills-five" type="button" role="tab" aria-controls="pills-five" aria-selected="false">Phổ biến</button>
                                     </li>
                                 </ul>                                      
                             </div>
@@ -44,7 +44,7 @@
                                                 <div class="h3_course-item-img">
                                                     <a href="course-details.html"><img src="assets/img/course/3/1.jpg" alt=""></a>
                                                     <div class="h3_course-item-tag">
-                                                        <a href="#">Leadership</a>
+                                                        <a href="#">Kỹ năng lãnh đạo</a>
                                                     </div>
                                                     <div class="h3_course-item-save">
                                                         <a href="#"><i class="fa-light fa-bookmark"></i></a>
@@ -53,7 +53,7 @@
                                                 <div class="h3_course-content">
                                                     <div class="h3_course-content-info">
                                                         <ul>
-                                                            <li><i class="fa-light fa-book-blank"></i>42 Lessons</li>
+                                                            <li><i class="fa-light fa-book-blank"></i>42 Bài học</li>
                                                             <li><i class="fa-light fa-user-group"></i>64 Students</li>
                                                             <li><i class="fa-light fa-clock"></i>20 Hours</li>
                                                         </ul>

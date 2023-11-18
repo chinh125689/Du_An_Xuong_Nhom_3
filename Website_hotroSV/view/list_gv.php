@@ -9,46 +9,46 @@
                             <div class="h3_admission-wrap mr-65 mb-50">
                                 <img src="assets/img/admission/3/shape-2.png" alt="" class="h3_admission-wrap-shape-2">
                                 <div class="section-area-3 mb-35 small-section-area-3">
-                                    <span class="section-subtitle">Education Admissions</span>
-                                    <h2 class="section-title mb-25">Bridge Opportunity Gap Support Access Education!</h2>
+                                    <span class="section-subtitle">Tuyển sinh giáo dục</span>
+                                    <h2 class="section-title mb-25">Cầu nối khoảng cách cơ hội Hỗ trợ tiếp cận giáo dục!</h2>
                                     <p class="section-text">
-                                        Maecenas Felis Tellus, dictum sed fermentum vel, various condiment dolour donec aliquot denim ut auctor molestee, era elite pharetra masa.
+                                    Maecenas Felis Tellus, cho biết nhưng letnum hoặc, nhiều loại gia vị ảm đạm cho đến khi một số denim như tác giả quấy rối, thời đại ưu tú chùn bước masa.
                                     </p>
                                 </div>
                                 <div class="h3_admission-content mb-35">
                                     <div class="row">
                                         <div class="col-sm-6">
-                                            <span><i class="fa-regular fa-check"></i>Teach your way</span>
+                                            <span><i class="fa-regular fa-check"></i>Dạy theo cách của bạn</span>
                                         </div>
                                         <div class="col-sm-6">
-                                            <span><i class="fa-regular fa-check"></i>Record your video</span>
+                                            <span><i class="fa-regular fa-check"></i>Ghi lại video của bạn</span>
                                         </div>
                                         <div class="col-sm-6">
-                                            <span><i class="fa-regular fa-check"></i>Plan your curriculum</span>
+                                            <span><i class="fa-regular fa-check"></i>Lập kế hoạch chương trình giảng dạy của bạn</span>
                                         </div>
                                         <div class="col-sm-6">
-                                            <span><i class="fa-regular fa-check"></i>Launch your course</span>
+                                            <span><i class="fa-regular fa-check"></i>Khởi động khóa học của bạn</span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="h3_admission-button">
-                                    <a href="#" class="theme-btn theme-btn-medium theme-btn-3">Apply Now<i class="fa-light fa-arrow-up-right"></i></a>
+                                    <a href="#" class="theme-btn theme-btn-medium theme-btn-3">Áp dụng ngay<i class="fa-light fa-arrow-up-right"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="h3_admission-form mb-50">
-                                <h5 class="h3_admission-form-title">Admissions</h5>
+                                <h5 class="h3_admission-form-title">Phương thức liên hệ</h5>
                                 <form action="#">
                                     <div class="row g-15">
                                         <div class="col-xl-6 col-sm-6">
                                             <div class="h3_admission-form-input">
-                                                <input type="text" placeholder="First Name">
+                                                <input type="text" placeholder="Họ">
                                             </div>
                                         </div>
                                         <div class="col-xl-6 col-sm-6">
                                             <div class="h3_admission-form-input">
-                                                <input type="text" placeholder="Last Name">
+                                                <input type="text" placeholder="Tên">
                                             </div>
                                         </div>
                                         <div class="col-xl-6 col-sm-6">
@@ -58,42 +58,42 @@
                                         </div>
                                         <div class="col-xl-6 col-sm-6">
                                             <div class="h3_admission-form-input">
-                                                <input type="text" placeholder="Phone">
+                                                <input type="text" placeholder="Số Điện Thoại">
                                             </div>
                                         </div>
                                         <div class="col-xl-6 col-sm-6">
                                             <div class="h3_admission-form-input">
-                                                <input type="text" placeholder="Street Address">
+                                                <input type="text" placeholder="Địa chỉ đường phố">
                                             </div>
                                         </div>
                                         <div class="col-xl-6 col-sm-6">
                                             <div class="h3_admission-form-input">
-                                                <input type="text" placeholder="City">
+                                                <input type="text" placeholder="Đường phố">
                                             </div>
                                         </div>
                                         <div class="col-xl-6 col-sm-6">
                                             <div class="h3_admission-form-input">
-                                                <input type="text" placeholder="State">
+                                                <input type="text" placeholder="Tình trạng">
                                             </div>
                                         </div>
                                         <div class="col-xl-6 col-sm-6">
                                             <div class="h3_admission-form-input">
-                                                <input type="text" placeholder="Zip Code">
+                                                <input type="text" placeholder="Mã Bưu">
                                             </div>
                                         </div>
                                         <div class="col-12">
                                             <div class="h3_admission-form-input">
-                                                <input type="date">
+                                                <input type="Năm sinh">
                                             </div>
                                         </div>
                                         <div class="col-12">
                                             <div class="h3_admission-form-input">
-                                                <textarea name="message" placeholder="Academic Qualifications"></textarea>
+                                                <textarea name="message" placeholder="Trình độ học vấn"></textarea>
                                             </div>
                                         </div>
                                         <div class="col-12">
                                             <div class="h3_admission-form-btn">
-                                                <button type="submit" class="theme-btn h3_admission-btn theme-btn-full theme-btn-3">Contact Us<i class="fa-light fa-arrow-right"></i></button>
+                                                <button type="submit" class="theme-btn h3_admission-btn theme-btn-full theme-btn-3">Liên hệ với chúng tôi<i class="fa-light fa-arrow-right"></i></button>
                                             </div>
                                         </div>
                                     </div>
@@ -112,8 +112,8 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="section-area-3 text-center mb-60">
-                                <span class="section-subtitle">Meet Our Mentors</span>
-                                <h2 class="section-title mb-0">Our Expert Teacher</h2>
+                                <span class="section-subtitle">Gặp gỡ cố vấn của chúng tôi</span>
+                                <h2 class="section-title mb-0">Giáo viên chuyên môn của chúng tôi</h2>
                             </div>
                         </div>
                     </div>
@@ -136,7 +136,7 @@
                                         <h5 class="h3_teacher-content-title">
                                             <a href="#">Eleanor Fant</a>
                                         </h5>
-                                        <span>Headmaster</span>
+                                        <span>Hiệu trưởng</span>
                                     </div>
                                 </div>
                             </div>
@@ -157,7 +157,7 @@
                                         <h5 class="h3_teacher-content-title">
                                             <a href="#">Fig Nelson</a>
                                         </h5>
-                                        <span>Language Teacher</span>
+                                        <span>Giáo viên ngôn ngữ</span>
                                     </div>
                                 </div>
                             </div>
@@ -178,7 +178,7 @@
                                         <h5 class="h3_teacher-content-title">
                                             <a href="#">Hanson Deck</a>
                                         </h5>
-                                        <span>Special Education Teacher</span>
+                                        <span>Giáo viên giáo dục đặc biệt</span>
                                     </div>
                                 </div>
                             </div>
