@@ -15,6 +15,9 @@
                 break;
             case "contact":
                 include "view/nav_control/contact.php";
+                break;   
+            case "gioithieu":
+                include "view/nav_control/introduce.php";
                 break;
         }
     }else{
