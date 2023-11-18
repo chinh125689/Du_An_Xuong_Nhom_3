@@ -55,10 +55,10 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="breadcrumb-content">
-                                <h2 class="breadcrumb-title">Blog Grid</h2>
+                                <h2 class="breadcrumb-title">Tin tức</h2>
                                 <div class="breadcrumb-list">
-                                    <a href="index.html">Home</a>
-                                    <span>Blog Grid</span>
+                                    <a href="index.html">Trang chủ</a>
+                                    <span>Tin tức</span>
                                 </div>
                             </div>
                         </div>
@@ -81,8 +81,8 @@
                                         <span><i class="fa-thin fa-user"></i>Admin</span>
                                         <span><i class="fa-thin fa-clock"></i>June 23, 2023</span>
                                     </div>
-                                    <h5 class="h2_blog-content-title"><a href="blog-details.html">Education Week News and Views on Education Policy and Practice.</a></h5>
-                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Read More</a>
+                                    <h5 class="h2_blog-content-title"><a href="blog-details.html">Tin tức Tuần Giáo dục và Quan điểm về Chính sách và Thực tiễn Giáo dục.</a></h5>
+                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Xem thêm</a>
                                 </div>
                             </div>
                         </div>
@@ -97,7 +97,7 @@
                                         <span><i class="fa-thin fa-clock"></i>June 23, 2023</span>
                                     </div>
                                     <h5 class="h2_blog-content-title"><a href="blog-details.html">The Learning Network Teaching and Learning With The New York Times.</a></h5>
-                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Read More</a>
+                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Xem thêm</a>
                                 </div>
                             </div>
                         </div>
@@ -112,7 +112,7 @@
                                         <span><i class="fa-thin fa-clock"></i>June 23, 2023</span>
                                     </div>
                                     <h5 class="h2_blog-content-title"><a href="blog-details.html">Nothing is Impossible to Learn If you are Passionate About this Subject</a></h5>
-                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Read More</a>
+                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Xem thêm</a>
                                 </div>
                             </div>
                         </div>
@@ -127,7 +127,7 @@
                                         <span><i class="fa-thin fa-clock"></i>June 23, 2023</span>
                                     </div>
                                     <h5 class="h2_blog-content-title"><a href="blog-details.html">The Learning Network Teaching and Learning With The New York Times.</a></h5>
-                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Read More</a>
+                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Xem thêm</a>
                                 </div>
                             </div>
                         </div>
@@ -142,7 +142,7 @@
                                         <span><i class="fa-thin fa-clock"></i>June 23, 2023</span>
                                     </div>
                                     <h5 class="h2_blog-content-title"><a href="blog-details.html">Nothing is Impossible to Learn If you are Passionate About this Subject</a></h5>
-                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Read More</a>
+                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Xem thêm</a>
                                 </div>
                             </div>
                         </div>
@@ -157,7 +157,7 @@
                                         <span><i class="fa-thin fa-clock"></i>June 23, 2023</span>
                                     </div>
                                     <h5 class="h2_blog-content-title"><a href="blog-details.html">Education Week News and Views on Education Policy and Practice.</a></h5>
-                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Read More</a>
+                                    <a href="#" class="theme-btn blog-btn t-theme-btn">Xem thêm</a>
                                 </div>
                             </div>
                         </div>

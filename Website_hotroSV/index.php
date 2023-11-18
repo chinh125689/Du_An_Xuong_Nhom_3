@@ -19,9 +19,12 @@
             case "gioithieu":
                 include "view/nav_control/introduce.php";
                 break;
-            case "news":
+            case "list_gv":
                 include "view/news.php";
-                break;    
+                break;   
+                case "news":
+                    include "view/list_gv.php";
+                    break;        
         }
     }else{
         include "view/about.php";

@@ -60,38 +60,25 @@
                             <div class="h3_header-middle">
                                 <nav class="h3_main-menu mobile-menu" id="mobile-menu">
                                     <ul>
-                                        <li class="menu-has-child">
+                                        <li class="">
                                             <a href="./index.php">Trang chủ</a>
                                             
                                         </li>
-                                        <li class="menu-has-child">
-                                            <a href="course.html">Khóa học </a>
-                                            <ul class="submenu">
-                                                <li><a href="index.php?act=dmkhoahoc">Danh mục môn học</a></li>
-                                                <li><a href="course-details.html">Chi Tiết Khóa học</a></li>
-                                            </ul>
+                                        <li class="">
+                                            <a href="index.php?act=dmkhoahoc">Khóa học </a>
+                                      
                                         </li>
                                         <li class="menu-has-child">
                                             <a href="#">Trang</a>
                                             <ul class="submenu">
                                                 <li><a href="index.php?act=introduce">Giới thiệu</a></li>
-                                                <li><a href="team.html">Giáo viên</a></li>
-                                                <li><a href="team-details.html">Thông tin chi tiết về giáo viên</a></li>
-                                                <li><a href="event.html">Sự kiện</a></li>
-                                                <li><a href="event-details.html">Chi tiết sự kiện</a></li>
-                                                <li><a href="price.html">Giá thành</a></li>
-                                                <li><a href="gallery.html">Phòng trưng bày</a></li>
-                                                <li><a href="sign-up.html">Đăng ký</a></li>
-                                                <li><a href="sign-in.html">Đăng nhập</a></li>
-                                                <li><a href="404.html">404</a></li>
+                                                <li><a href="index.php?act=list_gv">Giáo viên</a></li>
+                                                
+                                           
                                             </ul>
                                         </li>
-                                        <li class="menu-has-child">
-                                            <a href="blog.html">Tin tức</a>
-                                            <ul class="submenu">
-                                                <li><a href="blog.html">Tin tức</a></li>
-                                                <li><a href="blog-details.html">Chi tiết tin tức</a></li>
-                                            </ul>
+                                        <li class="">
+                                            <a href="index.php?act=blog">Tin tức</a>
                                         </li>
                                         <li><a href="index.php?act=contact">Liên hệ</a></li>
                                     </ul>
