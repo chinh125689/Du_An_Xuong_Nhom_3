@@ -54,14 +54,14 @@
                                                     <div class="h3_course-content-info">
                                                         <ul>
                                                             <li><i class="fa-light fa-book-blank"></i>42 Bài học</li>
-                                                            <li><i class="fa-light fa-user-group"></i>64 Students</li>
-                                                            <li><i class="fa-light fa-clock"></i>20 Hours</li>
+                                                            <li><i class="fa-light fa-user-group"></i>64 Sinh viên</li>
+                                                            <li><i class="fa-light fa-clock"></i>20 Giờ</li>
                                                         </ul>
                                                     </div>
                                                     <h5 class="h3_course-content-title"><a href="course-details.html">A Comprehensive Overview of The Field of Education.</a></h5>
                                                     <div class="h3_course-content-price">
                                                         <span><del>$120</del>$96.00</span>
-                                                        <h5>Free</h5>
+                                                        <h5>Miễn phí</h5>
                                                     </div>
                                                 </div>
                                             </div>

@@ -60,11 +60,11 @@
                             <div class="h3_header-middle">
                                 <nav class="h3_main-menu mobile-menu" id="mobile-menu">
                                     <ul>
-                                        <li class="menu-has-child">
+                                        <li class="">
                                             <a href="./index.php">Trang chủ</a>
                                             
                                         </li>
-                                        <li class="menu-has-child">
+                                        <li class="">
                                             <a href="course.html">Khóa học </a>
                                             <ul class="submenu">
                                                 <li><a href="index.php?act=dmkhoahoc">Danh mục môn học</a></li>
