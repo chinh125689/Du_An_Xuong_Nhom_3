@@ -71,18 +71,12 @@
                                                 <li><a href="index.php?act=dmkhoahoc">Danh mục môn học</a></li>
                                                 <li><a href="course-details.html">Chi Tiết Khóa học</a></li>
                                             </ul>
-
-                                            
-                                      
-
                                         </li>
                                         <li class="menu-has-child">
                                             <a href="#">Trang</a>
                                             <ul class="submenu">
                                                 <li><a href="index.php?act=introduce">Giới thiệu</a></li>
                                                 <li><a href="index.php?act=list_gv">Giáo viên</a></li>
-                                                
-                                           
                                             </ul>
                                         </li>
                                         <li class="">
