@@ -1,6 +1,9 @@
 <?php
     include "view/header.php";
-
+    include "model/blog.php";
+    include "model/pdo.php";
+    include "global.php";
+    $list_tintuc = loadall_tintuc();
     if(isset($_GET['act']) && $_GET['act'] != ""){
         $act = $_GET['act'];
         switch($act){
@@ -11,6 +14,7 @@
                 include "view/nav_control/introduce.php";
                 break;
             case "blog":
+             
                 include "view/blog/blog.php";
                 break;
             case "contact":
