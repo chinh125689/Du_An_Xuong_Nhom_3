@@ -28,7 +28,11 @@
                 break;   
                 case "news":
                     include "view/list_gv.php";
-                    break;        
+                    break;   
+            case "gv-grid":
+                include "view/gv/gv-grid.php";
+                break;   
+                     
         }
     }else{
         include "view/about.php";
