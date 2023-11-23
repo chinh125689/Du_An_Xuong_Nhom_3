@@ -3,11 +3,19 @@
     include "model/blog.php";
     include "model/pdo.php";
     include "global.php";
+    include "model/gv.php";
+    include "model/monhoc.php";
+    include "model/khoahoc.php";
     $list_tintuc = loadall_tintuc();
+    $list_gv = loadall_gv();
+$list_monhoc = loadall_monhoc();
+$list_khoahoc = loadall_khoahoc();
+   
     if(isset($_GET['act']) && $_GET['act'] != ""){
         $act = $_GET['act'];
         switch($act){
             case "dmkhoahoc":
+              
                 include "view/subject/subject-grid.php";
                 break;
             case "introduce":
@@ -24,6 +32,7 @@
                 include "view/nav_control/introduce.php";
                 break;
             case "list_gv":
+              
                 include "view/news.php";
                 break;   
                 case "news":

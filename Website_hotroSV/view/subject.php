@@ -15,7 +15,29 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-xl-4 col-lg-6">
+                        <?php 
+                        foreach($list_monhoc as $monhoc){
+                            extract($monhoc);
+                           
+                            echo "<div class='col-xl-4 col-lg-6'>
+                            <div class='h3_category-item mb-30'>
+                                <div class='h3_category-item-icon'>
+                                    <i class='fa-light fa-square-pen'></i>
+                                </div>
+                                <div class='h3_category_inner'>
+                                    <div class='h3_category-item-content'>
+                                        <h5><a href='course.html'>".$description."</a></h5>
+                                        <p>".$soluong_khoahoc."</p>
+                                    </div>
+                                    <div class='h3_category-btn'>
+                                        <a href='#'><i class='fa-light fa-arrow-right'></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>";
+                        }
+                        ?>
+                        <!-- <div class="col-xl-4 col-lg-6">
                             <div class="h3_category-item mb-30">
                                 <div class="h3_category-item-icon">
                                     <i class="fa-light fa-square-pen"></i>
@@ -30,7 +52,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="col-xl-4 col-lg-6">
                             <div class="h3_category-item mb-30">
                                 <div class="h3_category-item-icon">
