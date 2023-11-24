@@ -119,7 +119,34 @@
                     </div>
                     <div class="teacher-active swiper">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide">
+                        <?php 
+                            foreach ($list_gv as $gv){
+                                extract($gv);
+                                $img_pro = $img_path.$img;
+                                echo "<div class='swiper-slide'>
+                                <div class='h3_teacher-item mb-25'>
+                                    <div class='h3_teacher-img w_img'>
+                                        <img src='".$img_pro."' alt=''>
+                                        <div class='h3_teacher-social'>
+                                            <ul>
+                                                <li><a href='#'><i class='fa-brands fa-facebook-f'></i></a></li>
+                                                <li><a href='#'><i class='fa-brands fa-twitter'></i></a></li>
+                                                <li><a href='#'><i class='fa-brands fa-linkedin-in'></i></a></li>
+                                            </ul>
+                                            <span class='share'><i class='fa-light fa-share-nodes'></i></span>
+                                        </div>
+                                    </div>
+                                    <div class='h3_teacher-content'>
+                                        <h5 class='h3_teacher-content-title'>
+                                            <a href='#'>".$name."</a>
+                                        </h5>
+                                        <span>Hiệu trưởng</span>
+                                    </div>
+                                </div>
+                            </div>";
+                            }
+                            ?>
+                            <!-- <div class="swiper-slide">
                                 <div class="h3_teacher-item mb-25">
                                     <div class="h3_teacher-img w_img">
                                         <img src="assets/img/teacher/3/1.jpg" alt="">
@@ -139,8 +166,8 @@
                                         <span>Hiệu trưởng</span>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="swiper-slide">
+                            </div> -->
+                            <!-- <div class="swiper-slide">
                                 <div class="h3_teacher-item mb-25">
                                     <div class="h3_teacher-img w_img">
                                         <img src="assets/img/teacher/3/2.jpg" alt="">
@@ -160,8 +187,8 @@
                                         <span>Giáo viên ngôn ngữ</span>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="swiper-slide">
+                            </div> -->
+                            <!-- <div class="swiper-slide">
                                 <div class="h3_teacher-item mb-25">
                                     <div class="h3_teacher-img w_img">
                                         <img src="assets/img/teacher/3/3.jpg" alt="">
@@ -181,7 +208,7 @@
                                         <span>Giáo viên giáo dục đặc biệt</span>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="teacher-pagination mt-45"></div>
                     </div>

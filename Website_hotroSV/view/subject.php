@@ -53,7 +53,7 @@
                                 </div>
                             </div>
                         </div> -->
-                        <div class="col-xl-4 col-lg-6">
+                        <!-- <div class="col-xl-4 col-lg-6">
                             <div class="h3_category-item mb-30">
                                 <div class="h3_category-item-icon">
                                     <i class="fa-light fa-grid-2-plus fa-flip-vertical"></i>
@@ -68,8 +68,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6">
+                        </div> -->
+                        <!-- <div class="col-xl-4 col-lg-6">
                             <div class="h3_category-item mb-30">
                                 <div class="h3_category-item-icon">
                                     <i class="fa-light fa-square-poll-vertical"></i>
@@ -84,8 +84,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6">
+                        </div> -->
+                        <!-- <div class="col-xl-4 col-lg-6">
                             <div class="h3_category-item mb-30">
                                 <div class="h3_category-item-icon">
                                     <i class="fa-light fa-pen-to-square"></i>
@@ -100,8 +100,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6">
+                        </div> -->
+                        <!-- <div class="col-xl-4 col-lg-6">
                             <div class="h3_category-item mb-30">
                                 <div class="h3_category-item-icon">
                                     <i class="fa-light fa-language"></i>
@@ -116,8 +116,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6">
+                        </div> -->
+                        <!-- <div class="col-xl-4 col-lg-6">
                             <div class="h3_category-item mb-30">
                                 <div class="h3_category-item-icon">
                                     <i class="fa-light fa-mobile-notch"></i>
@@ -132,7 +132,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </section>
