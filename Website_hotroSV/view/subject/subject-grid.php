@@ -98,7 +98,157 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-xl-4 col-lg-6 col-md-6">
+                    <?php 
+                        foreach($list_khoahoc as $khoahoc){
+                                 extract($khoahoc);
+                                 $img_pro = $img_path.$img;
+                                 echo "<div class='col-xl-4 col-lg-6 col-md-6'>
+                                 <div class='h2_course-item mb-30'>
+                                     <div class='h2_course-item-img'>
+                                         <a href='course-details.html'><img src='".$img_pro."' alt=''></a>
+                                     </div>
+                                     <div class='h2_course-content'>
+                                         <div class='h2_course-content-top'>
+                                             <div class='h2_course-rating'>
+                                                 <ul>
+                                                     <li><i class='fa-solid fa-star'></i></li>
+                                                     <li><i class='fa-solid fa-star'></i></li>
+                                                     <li><i class='fa-solid fa-star'></i></li>
+                                                     <li><i class='fa-solid fa-star'></i></li>
+                                                     <li><i class='fa-solid fa-star'></i></li>
+                                                 </ul>
+                                                 <span>(03 Đánh giá)</span>
+                                             </div>
+                                             <div class='h2_course-save'>
+                                                 <a href='#'><i class='fa-thin fa-bookmark'></i></a>
+                                             </div>
+                                         </div>
+                                         <h5 class='h2_course-content-title'><a href='course-details.html'>Giới thiệu Thiết kế trải nghiệm người dùng</a></h5>
+                                         <div class='h2_course-content-info'>
+                                             <span><i class='fa-thin fa-book-blank'></i>".$sl_baihoc."</span>
+                                             <span><i class='fa-thin fa-user-group'></i>".$sl_sv."</span>
+                                         </div>
+                                         <p class='h2_course-content-text'>
+                                        ".$tieu_de."
+                                         </p>
+                                         <div class='h2_course-content-author'>
+                                             <div class='h2_course-author-img'>
+                                                 <img src='".$img_pro."' alt=''>
+                                             </div>
+                                             <div class='h2_course-author-info'>
+                                                 <span>Dạy bởi <a href='#'>".$ten_gv."</a></span>
+                                             </div>
+                                         </div>
+                                     </div>
+                                     <div class='h2_course-content-bottom'>
+                                         <div class='h2_course-bottom-price'>
+                                             <span><del>".$gia."đ</del>".$gia."đ</span>
+                                         </div>
+                                         <div class='h2_course-bottom-btn'>
+                                             <a href='course-details.html'>Thêm chi tiết<i class='fa-light fa-arrow-right'></i><i class='fa-light fa-arrow-right'></i></a>
+                                         </div>
+                                     </div>
+                                 </div>
+                             </div>";
+                             echo "<div class='col-xl-4 col-lg-6 col-md-6'>
+                             <div class='h2_course-item mb-30'>
+                                 <div class='h2_course-item-img'>
+                                     <a href='course-details.html'><img src='".$img_pro."' alt=''></a>
+                                 </div>
+                                 <div class='h2_course-content'>
+                                     <div class='h2_course-content-top'>
+                                         <div class='h2_course-rating'>
+                                             <ul>
+                                                 <li><i class='fa-solid fa-star'></i></li>
+                                                 <li><i class='fa-solid fa-star'></i></li>
+                                                 <li><i class='fa-solid fa-star'></i></li>
+                                                 <li><i class='fa-solid fa-star'></i></li>
+                                                 <li><i class='fa-solid fa-star'></i></li>
+                                             </ul>
+                                             <span>(03 Đánh giá)</span>
+                                         </div>
+                                         <div class='h2_course-save'>
+                                             <a href='#'><i class='fa-thin fa-bookmark'></i></a>
+                                         </div>
+                                     </div>
+                                     <h5 class='h2_course-content-title'><a href='course-details.html'>Giới thiệu Thiết kế trải nghiệm người dùng</a></h5>
+                                     <div class='h2_course-content-info'>
+                                         <span><i class='fa-thin fa-book-blank'></i>".$sl_baihoc."</span>
+                                         <span><i class='fa-thin fa-user-group'></i>".$sl_sv."</span>
+                                     </div>
+                                     <p class='h2_course-content-text'>
+                                    ".$tieu_de."
+                                     </p>
+                                     <div class='h2_course-content-author'>
+                                         <div class='h2_course-author-img'>
+                                             <img src='".$img_pro."' alt=''>
+                                         </div>
+                                         <div class='h2_course-author-info'>
+                                             <span>Dạy bởi <a href='#'>".$ten_gv."</a></span>
+                                         </div>
+                                     </div>
+                                 </div>
+                                 <div class='h2_course-content-bottom'>
+                                     <div class='h2_course-bottom-price'>
+                                         <span><del>".$gia."đ</del>".$gia."đ</span>
+                                     </div>
+                                     <div class='h2_course-bottom-btn'>
+                                         <a href='course-details.html'>Thêm chi tiết<i class='fa-light fa-arrow-right'></i><i class='fa-light fa-arrow-right'></i></a>
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>";
+                         echo "<div class='col-xl-4 col-lg-6 col-md-6'>
+                         <div class='h2_course-item mb-30'>
+                             <div class='h2_course-item-img'>
+                                 <a href='course-details.html'><img src='".$img_pro."' alt=''></a>
+                             </div>
+                             <div class='h2_course-content'>
+                                 <div class='h2_course-content-top'>
+                                     <div class='h2_course-rating'>
+                                         <ul>
+                                             <li><i class='fa-solid fa-star'></i></li>
+                                             <li><i class='fa-solid fa-star'></i></li>
+                                             <li><i class='fa-solid fa-star'></i></li>
+                                             <li><i class='fa-solid fa-star'></i></li>
+                                             <li><i class='fa-solid fa-star'></i></li>
+                                         </ul>
+                                         <span>(03 Đánh giá)</span>
+                                     </div>
+                                     <div class='h2_course-save'>
+                                         <a href='#'><i class='fa-thin fa-bookmark'></i></a>
+                                     </div>
+                                 </div>
+                                 <h5 class='h2_course-content-title'><a href='course-details.html'>Giới thiệu Thiết kế trải nghiệm người dùng</a></h5>
+                                 <div class='h2_course-content-info'>
+                                     <span><i class='fa-thin fa-book-blank'></i>".$sl_baihoc."</span>
+                                     <span><i class='fa-thin fa-user-group'></i>".$sl_sv."</span>
+                                 </div>
+                                 <p class='h2_course-content-text'>
+                                ".$tieu_de."
+                                 </p>
+                                 <div class='h2_course-content-author'>
+                                     <div class='h2_course-author-img'>
+                                         <img src='".$img_pro."' alt=''>
+                                     </div>
+                                     <div class='h2_course-author-info'>
+                                         <span>Dạy bởi <a href='#'>".$ten_gv."</a></span>
+                                     </div>
+                                 </div>
+                             </div>
+                             <div class='h2_course-content-bottom'>
+                                 <div class='h2_course-bottom-price'>
+                                     <span><del>".$gia."đ</del>".$gia."đ</span>
+                                 </div>
+                                 <div class='h2_course-bottom-btn'>
+                                     <a href='course-details.html'>Thêm chi tiết<i class='fa-light fa-arrow-right'></i><i class='fa-light fa-arrow-right'></i></a>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>";
+                        }
+                        ?>
+                        <!-- <div class="col-xl-4 col-lg-6 col-md-6">
                             <div class="h2_course-item mb-30">
                                 <div class="h2_course-item-img">
                                     <a href="course-details.html"><img src="assets/img/course/2/1.jpg" alt=""></a>
@@ -145,8 +295,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6">
+                        </div> -->
+                        <!-- <div class="col-xl-4 col-lg-6 col-md-6">
                             <div class="h2_course-item mb-30">
                                 <div class="h2_course-item-img">
                                     <a href="course-details.html"><img src="assets/img/course/2/2.jpg" alt=""></a>
@@ -193,8 +343,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6">
+                        </div> -->
+                        <!-- <div class="col-xl-4 col-lg-6 col-md-6">
                             <div class="h2_course-item mb-30">
                                 <div class="h2_course-item-img">
                                     <a href="course-details.html"><img src="assets/img/course/2/3.jpg" alt=""></a>
@@ -241,8 +391,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6">
+                        </div> -->
+                        <!-- <div class="col-xl-4 col-lg-6 col-md-6">
                             <div class="h2_course-item mb-30">
                                 <div class="h2_course-item-img">
                                     <a href="course-details.html"><img src="assets/img/course/2/4.jpg" alt=""></a>
@@ -289,8 +439,9 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6">
+                        </div> -->
+                       
+                        <!-- <div class="col-xl-4 col-lg-6 col-md-6">
                             <div class="h2_course-item mb-30">
                                 <div class="h2_course-item-img">
                                     <a href="course-details.html"><img src="assets/img/course/2/5.jpg" alt=""></a>
@@ -337,8 +488,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6">
+                        </div> -->
+                        <!-- <div class="col-xl-4 col-lg-6 col-md-6">
                             <div class="h2_course-item mb-30">
                                 <div class="h2_course-item-img">
                                     <a href="course-details.html"><img src="assets/img/course/2/6.jpg" alt=""></a>
@@ -385,7 +536,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="row">
                         <div class="col-12">

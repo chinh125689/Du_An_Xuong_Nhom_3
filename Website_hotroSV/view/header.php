@@ -66,7 +66,7 @@
                                         </li>
                                         <li class="">
 
-                                            <a href="course.html">Khóa học </a>
+                                            <a href="index.php?act=dmkhoahoc">Khóa học </a>
                                             <ul class="submenu">
                                                 <li><a href="index.php?act=dmkhoahoc">Danh mục môn học</a></li>
                                                 <li><a href="course-details.html">Chi Tiết Khóa học</a></li>

@@ -64,7 +64,7 @@
                                                     </div>
                                                     <h5 class='h3_course-content-title'><a href='course-details.html'>".$tieu_de."</a></h5>
                                                     <div class='h3_course-content-price'>
-                                                        <span><del>".$gia."</del>".$gia."</span>
+                                                        <span><del>".$gia."đ</del>".$gia."đ</span>
                                                         <h5>Free</h5>
                                                     </div>
                                                 </div>
@@ -113,7 +113,7 @@
                                                 </div>
                                                 <h5 class='h3_course-content-title'><a href='course-details.html'>".$tieu_de."</a></h5>
                                                 <div class='h3_course-content-price'>
-                                                    <span><del>".$gia."</del>".$gia."</span>
+                                                    <span><del>".$gia."đ</del>".$gia."đ</span>
                                                     <h5>Free</h5>
                                                 </div>
                                             </div>
@@ -162,7 +162,7 @@
                                             </div>
                                             <h5 class='h3_course-content-title'><a href='course-details.html'>".$tieu_de."</a></h5>
                                             <div class='h3_course-content-price'>
-                                                <span><del>".$gia."</del>".$gia."</span>
+                                                <span><del>".$gia."đ</del>".$gia."đ</span>
                                                 <h5>Free</h5>
                                             </div>
                                         </div>
