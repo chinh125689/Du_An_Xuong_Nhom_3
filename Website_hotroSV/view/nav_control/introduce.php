@@ -125,7 +125,28 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
+
+                    <?php 
+                    foreach($list_gv as $gv){
+                        extract($gv);
+                        $img_pro = $img_path.$img;
+                        echo "<div class='col-xl-3 col-lg-4 col-sm-6'>
+                        <div class='h2_teacher-item mb-30'>
+                            <div class='h2_teacher-img'>
+                                <img src='".$img_pro."' alt=''>
+                            </div>
+                            <div class='h2_teacher-content'>
+                                <h5 class='h2_teacher-content-title'>
+                                    <a href='#'>Parsley Montana</a>
+                                </h5>
+                                <span>".$name."</span>
+                            </div>
+                        </div>
+                    </div>";
+           
+                    }
+                    ?>
+                    <!-- <div class="col-xl-3 col-lg-4 col-sm-6">
                         <div class="h2_teacher-item mb-30">
                             <div class="h2_teacher-img">
                                 <img src="assets/img/teacher/2/1.jpg" alt="">
@@ -137,8 +158,8 @@
                                 <span>Giáo Viên Chủ Nhiệm</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
+                    </div> -->
+                    <!-- <div class="col-xl-3 col-lg-4 col-sm-6">
                         <div class="h2_teacher-item mb-30">
                             <div class="h2_teacher-img">
                                 <img src="assets/img/teacher/2/2.jpg" alt="">
@@ -150,8 +171,8 @@
                                 <span>Giáo Viên Chủ Nhiệm</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
+                    </div> -->
+                    <!-- <div class="col-xl-3 col-lg-4 col-sm-6">
                         <div class="h2_teacher-item mb-30">
                             <div class="h2_teacher-img">
                                 <img src="assets/img/teacher/2/3.jpg" alt="">
@@ -163,8 +184,8 @@
                                 <span>Giáo Viên Chủ Nhiệm</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
+                    </div> -->
+                    <!-- <div class="col-xl-3 col-lg-4 col-sm-6">
                         <div class="h2_teacher-item mb-30">
                             <div class="h2_teacher-img">
                                 <img src="assets/img/teacher/2/4.jpg" alt="">
@@ -176,8 +197,8 @@
                                 <span>Giáo Viên Chủ Nhiệm</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
+                    </div> -->
+                    <!-- <div class="col-xl-3 col-lg-4 col-sm-6">
                         <div class="h2_teacher-item mb-30">
                             <div class="h2_teacher-img">
                                 <img src="assets/img/teacher/2/5.jpg" alt="">
@@ -189,8 +210,8 @@
                                 <span>Giáo Viên Chủ Nhiệm</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
+                    </div> -->
+                    <!-- <div class="col-xl-3 col-lg-4 col-sm-6">
                         <div class="h2_teacher-item mb-30">
                             <div class="h2_teacher-img">
                                 <img src="assets/img/teacher/2/6.jpg" alt="">
@@ -202,7 +223,7 @@
                                 <span>Giáo Viên Chủ Nhiệm</span>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>

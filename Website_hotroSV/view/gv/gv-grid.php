@@ -99,71 +99,8 @@
                                 </div>
                             </div>
                         </div> ";
-                        echo "<div class='col-xl-3 col-lg-4 col-sm-6'>
-                        <div class='h2_teacher-item mb-30'>
-                            <div class='h2_teacher-img'>
-                                <img src='".$img_pro."' alt=''>
-                            </div>
-                            <div class='h2_teacher-content'>
-                                <h5 class='h2_teacher-content-title'>
-                                    <a href='#'>".$name."</a>
-                                </h5>
-                                <span>Lead Teacher</span>
-                            </div>
-                        </div>
-                    </div> ";
-                    echo "<div class='col-xl-3 col-lg-4 col-sm-6'>
-                    <div class='h2_teacher-item mb-30'>
-                        <div class='h2_teacher-img'>
-                            <img src='".$img_pro."' alt=''>
-                        </div>
-                        <div class='h2_teacher-content'>
-                            <h5 class='h2_teacher-content-title'>
-                                <a href='#'>".$name."</a>
-                            </h5>
-                            <span>Lead Teacher</span>
-                        </div>
-                    </div>
-                </div> ";
-                echo "<div class='col-xl-3 col-lg-4 col-sm-6'>
-                <div class='h2_teacher-item mb-30'>
-                    <div class='h2_teacher-img'>
-                        <img src='".$img_pro."' alt=''>
-                    </div>
-                    <div class='h2_teacher-content'>
-                        <h5 class='h2_teacher-content-title'>
-                            <a href='#'>".$name."</a>
-                        </h5>
-                        <span>Lead Teacher</span>
-                    </div>
-                </div>
-            </div> ";
-            echo "<div class='col-xl-3 col-lg-4 col-sm-6'>
-            <div class='h2_teacher-item mb-30'>
-                <div class='h2_teacher-img'>
-                    <img src='".$img_pro."' alt=''>
-                </div>
-                <div class='h2_teacher-content'>
-                    <h5 class='h2_teacher-content-title'>
-                        <a href='#'>".$name."</a>
-                    </h5>
-                    <span>Lead Teacher</span>
-                </div>
-            </div>
-        </div> ";
-        echo "<div class='col-xl-3 col-lg-4 col-sm-6'>
-        <div class='h2_teacher-item mb-30'>
-            <div class='h2_teacher-img'>
-                <img src='".$img_pro."' alt=''>
-            </div>
-            <div class='h2_teacher-content'>
-                <h5 class='h2_teacher-content-title'>
-                    <a href='#'>".$name."</a>
-                </h5>
-                <span>Lead Teacher</span>
-            </div>
-        </div>
-    </div> ";
+              
+      
                         }
                         ?>
                         <!-- <div class="col-xl-3 col-lg-4 col-sm-6">

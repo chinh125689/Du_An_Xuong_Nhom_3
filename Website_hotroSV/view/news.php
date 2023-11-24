@@ -36,40 +36,7 @@
                                 </div>
                             </div>
                         </div>";
-                        echo "<div class='col-xl-4 col-lg-6 col-md-6'>
-                        <div class='h3_blog-item mb-30'>
-                            <div class='h3_blog-img'>
-                                <a href='blog-details.html'><img src='".$img_pro."' alt=''></a>
-                                <a href='#' class='h3_blog-img-meta'>Education</a>
-                            </div>
-                            <div class='h3_blog-content'>
-                                <div class='h3_blog-content-meta'>
-                                    <span><i class='fa-thin fa-clock'></i>".$ngaydang."</span>
-                                    <span><i class='fa-thin fa-user'></i>".$name."</span>
-                                </div>
-                                <h5 class='h3_blog-content-title'><a href='blog-details.html'>".$noidung."</a></h5>
-                                <p>".$tieude."</p>
-                                <a href='#' class='h3_blog-btn'>Read More<i class='fa-light fa-arrow-right'></i></a>
-                            </div>
-                        </div>
-                    </div>";
-                    echo "<div class='col-xl-4 col-lg-6 col-md-6'>
-                    <div class='h3_blog-item mb-30'>
-                        <div class='h3_blog-img'>
-                            <a href='blog-details.html'><img src='".$img_pro."' alt=''></a>
-                            <a href='#' class='h3_blog-img-meta'>Education</a>
-                        </div>
-                        <div class='h3_blog-content'>
-                            <div class='h3_blog-content-meta'>
-                                <span><i class='fa-thin fa-clock'></i>".$ngaydang."</span>
-                                <span><i class='fa-thin fa-user'></i>".$name."</span>
-                            </div>
-                            <h5 class='h3_blog-content-title'><a href='blog-details.html'>".$noidung."</a></h5>
-                            <p>".$tieude."</p>
-                            <a href='#' class='h3_blog-btn'>Read More<i class='fa-light fa-arrow-right'></i></a>
-                        </div>
-                    </div>
-                </div>";
+                  
                         }
                         ?>
                         <!-- <div class="col-xl-4 col-lg-6 col-md-6">
