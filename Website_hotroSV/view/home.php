@@ -42,6 +42,8 @@
                                     foreach($list_khoahoc as $khoahoc){
                                         extract($khoahoc);
                                         $img_pro = $img_path.$img;
+                                        $link_kh = "index.php?act=subject-detail&id=".$id;
+                                        
                                         echo "<div class='col-xl-4 col-lg-6 col-md-6'>
                                         <div class='h3_course-item mb-30'>
                                             <div class='h3_course-item-top'>
@@ -62,7 +64,7 @@
                                                             <li><i class='fa-light fa-clock'></i>".$gio_hoc." Giờ</li>
                                                         </ul>
                                                     </div>
-                                                    <h5 class='h3_course-content-title'><a href='course-details.html'>".$tieu_de."</a></h5>
+                                                    <h5 class='h3_course-content-title'><a href='". $link_kh."'>".$tieu_de."</a></h5>
                                                     <div class='h3_course-content-price'>
                                                         <span><del>".$gia."đ</del>".$gia."đ</span>
                                                         <h5>Free</h5>
@@ -72,7 +74,7 @@
                                             <div class='h3_course-item-bottom'>
                                                 <div class='h3_course-item-author'>
                                                     <div class='h3_course-item-author-img'>
-                                                        <img src='".$img_pro."' alt=''>
+                                                        < img src='".$img_pro."' alt=''>
                                                     </div>
                                                     <div class='h3_course-item-author-info'>
                                                         <span>By <a href='#'>".$ten_gv."</a></span>
@@ -94,6 +96,7 @@
                                    
                                     }
                                     ?>
+                                   
                                     <!-- <div class="col-xl-4 col-lg-6 col-md-6">
                                         <div class="h3_course-item mb-30">
                                             <div class="h3_course-item-top">

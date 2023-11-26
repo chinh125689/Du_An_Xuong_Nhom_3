@@ -44,7 +44,21 @@ $list_khoahoc = loadall_khoahoc();
                 include "view/gv/gv-grid.php";
                 break;   
                      
-        }
+        
+        case "subject-detail":
+            if(isset($_GET['id'])&&($_GET['id'])>0){
+                $id = $_GET['id'];
+                 $kh = loadone_khoahoc($id);
+                extract($kh); 
+                include "view/subject/subject-detail.php";
+            }
+          
+            break;   
+         case "subject-grid":
+                include "view/subject/subject-grid.php";
+                break;   
+                     
+    }
     }else{
         include "view/about.php";
         include "view/subject.php";
